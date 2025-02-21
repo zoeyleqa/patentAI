@@ -1,0 +1,2165 @@
+{
+  "PatentBulkData": [
+    {
+      "patentCaseMetadata": {
+        "applicationNumberText": {
+          "value": "18105190",
+          "electronicText": "18105190"
+        },
+        "filingDate": "2023-02-02",
+        "applicationTypeCategory": "Utility",
+        "partyBag": {
+          "applicantBagOrInventorBagOrOwnerBag": [
+            {
+              "applicant": [
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "organizationStandardName": {
+                              "content": ["Bettermeal Inc."]
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "San Jose",
+                      "geographicRegionName": {
+                        "value": "CA",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "US"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "inventorOrDeceasedInventor": [
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "personStructuredName": {
+                              "firstName": "Swathi",
+                              "middleName": "Arulguppe",
+                              "lastName": "Nagendra"
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "San Jose",
+                      "geographicRegionName": {
+                        "value": "CA",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "US"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partyIdentifierOrContact": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      {
+                        "personStructuredName": {
+                          "lastName": "Cruz-Abrams Seigel LLC"
+                        }
+                      }
+                    ]
+                  },
+                  "postalAddressBag": {
+                    "postalAddress": [
+                      {
+                        "postalStructuredAddress": {
+                          "addressLineText": [
+                            { "value": "1200 Pearl Street" },
+                            { "value": "Suite 314" }
+                          ],
+                          "cityName": "Boulder",
+                          "geographicRegionName": [{ "value": "CO" }],
+                          "countryCode": "US",
+                          "postalCode": "80302"
+                        }
+                      }
+                    ]
+                  }
+                },
+                { "value": "143998" }
+              ]
+            }
+          ]
+        },
+        "applicationConfirmationNumber": "2021",
+        "applicantFileReference": "00370.0002",
+        "businessEntityStatusCategory": "SMALL",
+        "firstInventorToFileIndicator": "true",
+        "inventionTitle": {
+          "content": ["DIGITAL THERAPEUTIC FOR IMPROVING GUT HEALTH"]
+        },
+        "applicationStatusCategory": "Abandoned  --  Incomplete Application (Pre-examination)",
+        "applicationStatusDate": "2023-06-01",
+        "officialFileLocationCategory": "ELECTRONIC",
+        "relatedDocumentData": {
+          "parentDocumentDataOrChildDocumentData": [
+            {
+              "descriptionText": "This application Claims Priority from Provisional Application",
+              "applicationNumberText": "63306597",
+              "filingDate": "2022-02-04",
+              "parentDocumentStatusCode": "Expired",
+              "patentNumber": ""
+            },
+            {
+              "descriptionText": "which is Pending claims the benefit of 18105190",
+              "applicationNumberText": "18143033",
+              "filingDate": "2023-05-03",
+              "childDocumentStatusCode": "Pending",
+              "patentNumber": ""
+            }
+          ]
+        }
+      },
+      "prosecutionHistoryDataBag": {
+        "prosecutionHistoryData": [
+          {
+            "eventDate": "2023-06-05",
+            "eventCode": "ELC_RVW",
+            "eventDescriptionText": "Electronic Review"
+          },
+          {
+            "eventDate": "2023-06-02",
+            "eventCode": "MODPD:5",
+            "eventDescriptionText": "Mail GRANTED - Express Abandonment Petition Decision under 37 CFR  1.138(c)"
+          },
+          {
+            "eventDate": "2023-06-02",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-06-02",
+            "eventCode": "MABN",
+            "eventDescriptionText": "Abandonment Mailed"
+          },
+          {
+            "eventDate": "2023-06-01",
+            "eventCode": "ABNX",
+            "eventDescriptionText": "Abandonment -- During Preexam Processing"
+          },
+          {
+            "eventDate": "2023-05-23",
+            "eventCode": "EXABN",
+            "eventDescriptionText": "Applicant has Expressly requested that the case be Abandoned"
+          },
+          {
+            "eventDate": "2023-06-01",
+            "eventCode": "ODPD:5",
+            "eventDescriptionText": "GRANTED - Express Abandonment Petition Decision under 37 CFR  1.138(c)"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "ELC_RVW",
+            "eventDescriptionText": "Electronic Review"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "EML_NTF",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "EML_NTF",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "EML_NTF",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "EML_NTF",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "EML_NTF",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "CPAP",
+            "eventDescriptionText": "Corrected Paper"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "MPEN",
+            "eventDescriptionText": "Mail Pre-Exam Notice"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "CPAP",
+            "eventDescriptionText": "Corrected Paper"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "FLRCPT.O",
+            "eventDescriptionText": "Filing Receipt"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "MPEN",
+            "eventDescriptionText": "Mail Pre-Exam Notice"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "W/OA",
+            "eventDescriptionText": "Pre-Exam Office Action Withdrawn"
+          },
+          {
+            "eventDate": "2023-03-02",
+            "eventCode": "FTFS",
+            "eventDescriptionText": "FITF set to YES - revise initial setting"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "MPEN",
+            "eventDescriptionText": "Mail Pre-Exam Notice"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "COMP",
+            "eventDescriptionText": "Application Is Now Complete"
+          },
+          {
+            "eventDate": "2023-03-03",
+            "eventCode": "FLRCPT.O",
+            "eventDescriptionText": "Filing Receipt"
+          },
+          {
+            "eventDate": "2023-02-02",
+            "eventCode": "SREXR141",
+            "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+          },
+          {
+            "eventDate": "2023-02-02",
+            "eventCode": "APPERMS",
+            "eventDescriptionText": "Applicants have given acceptable permission for participating foreign "
+          },
+          {
+            "eventDate": "2023-03-01",
+            "eventCode": "SMAL",
+            "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+          },
+          {
+            "eventDate": "2023-02-02",
+            "eventCode": "BIG.",
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+          },
+          {
+            "eventDate": "2023-02-02",
+            "eventCode": "IEXX",
+            "eventDescriptionText": "Initial Exam Team nn"
+          }
+        ]
+      },
+      "assignmentDataBag": {
+        "assignmentData": [
+          {
+            "reelNumber": "62577",
+            "frameNumber": "679",
+            "documentReceivedDate": "02-02-2023",
+            "recordedDate": "02-02-2023",
+            "mailDate": "02-06-2023",
+            "pageTotalQuantity": 4,
+            "conveyanceText": "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+            "correspondenceAddress": {
+              "partyIdentifierOrContact": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      { "value": "CRUZ-ABRAMS SEIGEL LLC" }
+                    ]
+                  },
+                  "postalAddressBag": {
+                    "postalAddress": [
+                      {
+                        "postalAddressText": [
+                          {
+                            "sequenceNumber": "1",
+                            "value": "1200 PEARL STREET"
+                          },
+                          { "sequenceNumber": "2", "value": "SUITE 314" },
+                          {
+                            "sequenceNumber": "3",
+                            "value": "BOULDER, CO 80302"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "sequenceNumber": "1"
+          }
+        ],
+        "assignmentTotalQuantity": 1
+      },
+      "st96Version": "V4_0",
+      "ipoVersion": "US_V9_0"
+    },
+    {
+      "patentCaseMetadata": {
+        "applicationNumberText": {
+          "value": "18004061",
+          "electronicText": "18004061"
+        },
+        "filingDate": "2023-01-01",
+        "applicationTypeCategory": "Utility",
+        "partyBag": {
+          "applicantBagOrInventorBagOrOwnerBag": [
+            {
+              "primaryExaminerOrAssistantExaminerOrAuthorizedOfficer": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      { "personFullName": "CENTRAL, DOCKET" }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "applicant": [
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "organizationStandardName": {
+                              "content": [
+                                "GUANGDONG BRIGHT DREAM ROBOTICS CO., LTD."
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "Guangdong",
+                      "geographicRegionName": {
+                        "value": "",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "CN"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "inventorOrDeceasedInventor": [
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "personStructuredName": {
+                              "firstName": "Jianping",
+                              "middleName": "",
+                              "lastName": "LIU"
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "Guangdong",
+                      "geographicRegionName": {
+                        "value": "",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "CN"
+                    }
+                  ]
+                },
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "personStructuredName": {
+                              "firstName": "Jun",
+                              "middleName": "",
+                              "lastName": "HU"
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "Guangdong",
+                      "geographicRegionName": {
+                        "value": "",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "CN"
+                    }
+                  ]
+                },
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "personStructuredName": {
+                              "firstName": "Gesen",
+                              "middleName": "",
+                              "lastName": "ZHANG"
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "Guangdong",
+                      "geographicRegionName": {
+                        "value": "",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "CN"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partyIdentifierOrContact": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      {
+                        "personStructuredName": {
+                          "lastName": "Koffsky Schwalb LLC"
+                        }
+                      }
+                    ]
+                  },
+                  "postalAddressBag": {
+                    "postalAddress": [
+                      {
+                        "postalStructuredAddress": {
+                          "addressLineText": [
+                            { "value": "500 Seventh Avenue" },
+                            { "value": "8th Floor" }
+                          ],
+                          "cityName": "New York",
+                          "geographicRegionName": [{ "value": "NY" }],
+                          "countryCode": "US",
+                          "postalCode": "10018"
+                        }
+                      }
+                    ]
+                  }
+                },
+                { "value": "106928" }
+              ]
+            }
+          ]
+        },
+        "groupArtUnitNumber": { "value": "OPAP", "electronicText": "OPAP" },
+        "applicationConfirmationNumber": "5378",
+        "applicantFileReference": "1216.0015(BY22EX1845FGPM)",
+        "priorityClaimBag": {
+          "priorityClaim": [
+            {
+              "ipOfficeName": "CHINA",
+              "applicationNumber": {
+                "applicationNumberText": "202010619799.8"
+              },
+              "filingDate": "2020-07-01",
+              "sequenceNumber": "1"
+            }
+          ]
+        },
+        "patentClassificationBag": {
+          "cpcClassificationBagOrIPCClassificationOrECLAClassificationBag": [
+            {
+              "ipOfficeCode": "US",
+              "mainNationalClassification": {
+                "nationalClass": "427",
+                "nationalSubclass": "008000"
+              }
+            }
+          ]
+        },
+        "businessEntityStatusCategory": "UNDISCOUNTED",
+        "firstInventorToFileIndicator": "true",
+        "inventionTitle": {
+          "content": [
+            "Fluid Laying Device, Floor Tile Laying Robot and Slurry Laying Method"
+          ]
+        },
+        "applicationStatusCategory": "Docketed New Case - Ready for Examination",
+        "applicationStatusDate": "2023-06-12",
+        "officialFileLocationCategory": "ELECTRONIC",
+        "patentPublicationIdentification": {
+          "publicationNumber": "US20230265666A1",
+          "publicationDate": "2023-08-24"
+        },
+        "relatedDocumentData": {
+          "parentDocumentDataOrChildDocumentData": [
+            {
+              "descriptionText": "This application is National Stage Entry of",
+              "applicationNumberText": "PCT/CN2021/098880",
+              "filingDate": "2021-06-08",
+              "parentDocumentStatusCode": "Published",
+              "patentNumber": ""
+            }
+          ]
+        }
+      },
+      "prosecutionHistoryDataBag": {
+        "prosecutionHistoryData": [
+          {
+            "eventDate": "2023-08-24",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-08-24",
+            "eventCode": "CCRDY",
+            "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+          },
+          {
+            "eventDate": "2023-08-24",
+            "eventCode": "PG-ISSUE",
+            "eventDescriptionText": "PG-Pub Issue Notification"
+          },
+          {
+            "eventDate": "2023-01-01",
+            "eventCode": "RQPR",
+            "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+          },
+          {
+            "eventDate": "2023-06-12",
+            "eventCode": "DOCK",
+            "eventDescriptionText": "Case Docketed to Examiner in GAU"
+          },
+          {
+            "eventDate": "2023-06-12",
+            "eventCode": "COMP",
+            "eventDescriptionText": "Application Is Now Complete"
+          },
+          {
+            "eventDate": "2023-06-12",
+            "eventCode": "OIPE",
+            "eventDescriptionText": "Application Dispatched from OIPE"
+          },
+          {
+            "eventDate": "2023-05-19",
+            "eventCode": "FTFS",
+            "eventDescriptionText": "FITF set to YES - revise initial setting"
+          },
+          {
+            "eventDate": "2023-05-16",
+            "eventCode": "ELC_RVW",
+            "eventDescriptionText": "Electronic Review"
+          },
+          {
+            "eventDate": "2023-05-16",
+            "eventCode": "ELC_RVW",
+            "eventDescriptionText": "Electronic Review"
+          },
+          {
+            "eventDate": "2023-05-16",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-01-01",
+            "eventCode": "371COMP",
+            "eventDescriptionText": "371 Completion Date"
+          },
+          {
+            "eventDate": "2023-05-15",
+            "eventCode": "PGPC",
+            "eventDescriptionText": "Sent to Classification Contractor"
+          },
+          {
+            "eventDate": "2023-01-01",
+            "eventCode": "PTA.RFE",
+            "eventDescriptionText": "Patent Term Adjustment - Ready for Examination"
+          },
+          {
+            "eventDate": "2023-05-16",
+            "eventCode": "M903",
+            "eventDescriptionText": "Notice of DO/EO Acceptance Mailed"
+          },
+          {
+            "eventDate": "2023-05-16",
+            "eventCode": "FLRCPT.O",
+            "eventDescriptionText": "Filing Receipt"
+          },
+          {
+            "eventDate": "2023-01-01",
+            "eventCode": "SREXR141",
+            "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+          },
+          {
+            "eventDate": "2023-01-01",
+            "eventCode": "APPERMS",
+            "eventDescriptionText": "Applicants have given acceptable permission for participating foreign "
+          },
+          {
+            "eventDate": "2023-01-05",
+            "eventCode": "WIDS",
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+          },
+          {
+            "eventDate": "2023-01-01",
+            "eventCode": "BIG.",
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+          },
+          {
+            "eventDate": "2023-01-01",
+            "eventCode": "IEXX",
+            "eventDescriptionText": "Initial Exam Team nn"
+          }
+        ]
+      },
+      "contentResourceBag": {
+        "contentResource": [
+          {
+            "officialDate": "2023-08-23",
+            "documentCode": "NTC.PUB",
+            "descriptionText": "Notice of Publication",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-05-16",
+            "documentCode": "WCLM",
+            "descriptionText": "Claims Worksheet (PTO-2022)",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-05-16",
+            "documentCode": "WFEE",
+            "descriptionText": "Fee Worksheet (SB06)",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-05-16",
+            "documentCode": "M903",
+            "descriptionText": "Notice of Designated Office (DO) / Elected Office (EO) Acceptance Mailed",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-05-16",
+            "documentCode": "APP.FILE.REC",
+            "descriptionText": "Filing Receipt",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 3
+          },
+          {
+            "officialDate": "2022-12-31",
+            "documentCode": "P.PAMPHLET",
+            "descriptionText": "WIPO Publication - Non-English version",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 22
+          }
+        ]
+      },
+      "st96Version": "V4_0",
+      "ipoVersion": "US_V9_0"
+    },
+    {
+      "patentCaseMetadata": {
+        "applicationNumberText": {
+          "value": "18093104",
+          "electronicText": "18093104"
+        },
+        "filingDate": "2023-01-04",
+        "applicationTypeCategory": "Utility",
+        "partyBag": {
+          "applicantBagOrInventorBagOrOwnerBag": [
+            {
+              "primaryExaminerOrAssistantExaminerOrAuthorizedOfficer": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      { "personFullName": "CHO, HONG SOL" }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "applicant": [
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "organizationStandardName": {
+                              "content": ["BlackBerry Limited"]
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "Waterloo",
+                      "geographicRegionName": {
+                        "value": "",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "CA"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "inventorOrDeceasedInventor": [
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "personStructuredName": {
+                              "firstName": "Nam",
+                              "middleName": "",
+                              "lastName": "NGUYEN"
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "Hanoi",
+                      "geographicRegionName": {
+                        "value": "",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "VN"
+                    }
+                  ]
+                },
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "personStructuredName": {
+                              "firstName": "Yufei",
+                              "middleName": "Wu",
+                              "lastName": "BLANKENSHIP"
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "Kildeer",
+                      "geographicRegionName": {
+                        "value": "IL",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "US"
+                    }
+                  ]
+                },
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "personStructuredName": {
+                              "firstName": "Sagar",
+                              "middleName": "",
+                              "lastName": "DHAKAL"
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "Richardson",
+                      "geographicRegionName": {
+                        "value": "TX",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "US"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partyIdentifierOrContact": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      {
+                        "personStructuredName": {
+                          "lastName": "Fish & Richardson P.C. (Blackberry)"
+                        }
+                      }
+                    ]
+                  },
+                  "postalAddressBag": {
+                    "postalAddress": [
+                      {
+                        "postalStructuredAddress": {
+                          "addressLineText": [{ "value": "P.O.Box 1022" }],
+                          "cityName": "Minneapolis",
+                          "geographicRegionName": [{ "value": "MN" }],
+                          "countryCode": "VN",
+                          "postalCode": "55440"
+                        }
+                      }
+                    ]
+                  }
+                },
+                { "value": "94149" }
+              ]
+            }
+          ]
+        },
+        "groupArtUnitNumber": { "value": "2467", "electronicText": "2467" },
+        "applicationConfirmationNumber": "7288",
+        "applicantFileReference": "31234-0249007",
+        "patentClassificationBag": {
+          "cpcClassificationBagOrIPCClassificationOrECLAClassificationBag": [
+            {
+              "ipOfficeCode": "US",
+              "mainNationalClassification": {
+                "nationalClass": "370",
+                "nationalSubclass": "336000"
+              }
+            }
+          ]
+        },
+        "businessEntityStatusCategory": "UNDISCOUNTED",
+        "firstInventorToFileIndicator": "true",
+        "inventionTitle": {
+          "content": [
+            "METHOD AND SYSTEM FOR INITIAL SYNCHRONIZATION AND COLLISION AVOIDANCE IN DEVICE TO DEVICE COMMUNICATIONS WITHOUT NETWORK COVERAGE"
+          ]
+        },
+        "applicationStatusCategory": "Docketed New Case - Ready for Examination",
+        "applicationStatusDate": "2023-02-06",
+        "officialFileLocationCategory": "ELECTRONIC",
+        "patentPublicationIdentification": {
+          "publicationNumber": "US20230144392A1",
+          "publicationDate": "2023-05-11"
+        },
+        "relatedDocumentData": {
+          "parentDocumentDataOrChildDocumentData": [
+            {
+              "descriptionText": "This application is a Continuation of",
+              "applicationNumberText": "17146175",
+              "filingDate": "2021-01-11",
+              "aiaIndicator": true,
+              "parentDocumentStatusCode": "Patented",
+              "patentNumber": "11558913"
+            },
+            {
+              "descriptionText": "This application is a Continuation of",
+              "applicationNumberText": "16219734",
+              "filingDate": "2018-12-13",
+              "aiaIndicator": true,
+              "parentDocumentStatusCode": "Patented",
+              "patentNumber": "10932309"
+            },
+            {
+              "descriptionText": "This application is a Continuation of",
+              "applicationNumberText": "15672600",
+              "filingDate": "2017-08-09",
+              "aiaIndicator": true,
+              "parentDocumentStatusCode": "Patented",
+              "patentNumber": "10172176"
+            },
+            {
+              "descriptionText": "This application is a Continuation of",
+              "applicationNumberText": "15204588",
+              "filingDate": "2016-07-07",
+              "aiaIndicator": true,
+              "parentDocumentStatusCode": "Patented",
+              "patentNumber": "9775187"
+            },
+            {
+              "descriptionText": "This application is a Continuation of",
+              "applicationNumberText": "14833992",
+              "filingDate": "2015-08-24",
+              "aiaIndicator": true,
+              "parentDocumentStatusCode": "Patented",
+              "patentNumber": "9445397"
+            },
+            {
+              "descriptionText": "This application is a Division of",
+              "applicationNumberText": "13962708",
+              "filingDate": "2013-08-08",
+              "aiaIndicator": true,
+              "parentDocumentStatusCode": "Patented",
+              "patentNumber": "9210690"
+            }
+          ]
+        }
+      },
+      "prosecutionHistoryDataBag": {
+        "prosecutionHistoryData": [
+          {
+            "eventDate": "2023-07-06",
+            "eventCode": "WIDS",
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+          },
+          {
+            "eventDate": "2023-06-24",
+            "eventCode": "DOCK",
+            "eventDescriptionText": "Case Docketed to Examiner in GAU"
+          },
+          {
+            "eventDate": "2023-05-11",
+            "eventCode": "CCRDY",
+            "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+          },
+          {
+            "eventDate": "2023-05-10",
+            "eventCode": "PG-ISSUE",
+            "eventDescriptionText": "PG-Pub Issue Notification"
+          },
+          {
+            "eventDate": "2023-03-17",
+            "eventCode": "M844",
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+          },
+          {
+            "eventDate": "2023-03-17",
+            "eventCode": "WIDS",
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+          },
+          {
+            "eventDate": "2023-02-06",
+            "eventCode": "DOCK",
+            "eventDescriptionText": "Case Docketed to Examiner in GAU"
+          },
+          {
+            "eventDate": "2023-02-05",
+            "eventCode": "OIPE",
+            "eventDescriptionText": "Application Dispatched from OIPE"
+          },
+          {
+            "eventDate": "2023-02-05",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-02-02",
+            "eventCode": "PGPC",
+            "eventDescriptionText": "Sent to Classification Contractor"
+          },
+          {
+            "eventDate": "2023-02-02",
+            "eventCode": "FTFS",
+            "eventDescriptionText": "FITF set to YES - revise initial setting"
+          },
+          {
+            "eventDate": "2023-02-02",
+            "eventCode": "PTA.RFE",
+            "eventDescriptionText": "Patent Term Adjustment - Ready for Examination"
+          },
+          {
+            "eventDate": "2023-02-03",
+            "eventCode": "MPEN",
+            "eventDescriptionText": "Mail Pre-Exam Notice"
+          },
+          {
+            "eventDate": "2023-02-03",
+            "eventCode": "COMP",
+            "eventDescriptionText": "Application Is Now Complete"
+          },
+          {
+            "eventDate": "2023-02-03",
+            "eventCode": "FLRCPT.O",
+            "eventDescriptionText": "Filing Receipt"
+          },
+          {
+            "eventDate": "2023-01-04",
+            "eventCode": "SREXR141",
+            "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+          },
+          {
+            "eventDate": "2023-01-04",
+            "eventCode": "APPERMS",
+            "eventDescriptionText": "Applicants have given acceptable permission for participating foreign "
+          },
+          {
+            "eventDate": "2023-01-04",
+            "eventCode": "BIG.",
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+          },
+          {
+            "eventDate": "2023-01-04",
+            "eventCode": "IEXX",
+            "eventDescriptionText": "Initial Exam Team nn"
+          }
+        ]
+      },
+      "assignmentDataBag": {
+        "assignmentData": [
+          {
+            "reelNumber": "62618",
+            "frameNumber": "662",
+            "documentReceivedDate": "02-07-2023",
+            "recordedDate": "02-07-2023",
+            "mailDate": "02-08-2023",
+            "pageTotalQuantity": 17,
+            "conveyanceText": "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+            "correspondenceAddress": {
+              "partyIdentifierOrContact": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      { "value": "FISH & RICHARDSON P.C." }
+                    ]
+                  },
+                  "postalAddressBag": {
+                    "postalAddress": [
+                      {
+                        "postalAddressText": [
+                          { "sequenceNumber": "1", "value": "P.O. BOX 1022" },
+                          {
+                            "sequenceNumber": "2",
+                            "value": "MINNEAPOLIS, MN 55440-1022"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "sequenceNumber": "1"
+          },
+          {
+            "reelNumber": "62679",
+            "frameNumber": "795",
+            "documentReceivedDate": "02-07-2023",
+            "recordedDate": "02-07-2023",
+            "mailDate": "02-14-2023",
+            "pageTotalQuantity": 6,
+            "conveyanceText": "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+            "correspondenceAddress": {
+              "partyIdentifierOrContact": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      { "value": "FISH & RICHARDSON P.C." }
+                    ]
+                  },
+                  "postalAddressBag": {
+                    "postalAddress": [
+                      {
+                        "postalAddressText": [
+                          { "sequenceNumber": "1", "value": "P.O. BOX 1022" },
+                          {
+                            "sequenceNumber": "2",
+                            "value": "MINNEAPOLIS, MN 55440-1022"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "sequenceNumber": "1"
+          }
+        ],
+        "assignmentTotalQuantity": 2
+      },
+      "contentResourceBag": {
+        "contentResource": [
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "IDS",
+            "descriptionText": "Information Disclosure Statement (IDS) Form (SB08)",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 4
+          },
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "NPL",
+            "descriptionText": "Non Patent Literature",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 12
+          },
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "N417",
+            "descriptionText": "Electronic Filing System(EFS) Acknowledgment Receipt",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-05-10",
+            "documentCode": "NTC.PUB",
+            "descriptionText": "Notice of Publication",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-03-17",
+            "documentCode": "IDS",
+            "descriptionText": "Information Disclosure Statement (IDS) Form (SB08)",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 6
+          },
+          {
+            "officialDate": "2023-03-17",
+            "documentCode": "N417",
+            "descriptionText": "Electronic Filing System(EFS) Acknowledgment Receipt",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          }
+        ]
+      },
+      "st96Version": "V4_0",
+      "ipoVersion": "US_V9_0"
+    },
+    {
+      "patentCaseMetadata": {
+        "applicationNumberText": {
+          "value": "18121758",
+          "electronicText": "18121758"
+        },
+        "filingDate": "2023-03-15",
+        "applicationTypeCategory": "Utility",
+        "partyBag": {},
+        "groupArtUnitNumber": { "value": "3643", "electronicText": "3643" },
+        "applicationConfirmationNumber": "9407",
+        "applicantFileReference": "1661-01",
+        "patentClassificationBag": {
+          "cpcClassificationBagOrIPCClassificationOrECLAClassificationBag": [
+            {
+              "ipOfficeCode": "US",
+              "mainNationalClassification": {
+                "nationalClass": "043",
+                "nationalSubclass": "129000"
+              }
+            }
+          ]
+        },
+        "businessEntityStatusCategory": "SMALL",
+        "firstInventorToFileIndicator": "Other",
+        "inventionTitle": {
+          "content": [
+            "Systems, Devices, and/or Methods for Managing Pest Control"
+          ]
+        },
+        "applicationStatusCategory": "Application Undergoing Preexam Processing",
+        "applicationStatusDate": "2023-03-15",
+        "officialFileLocationCategory": "ELECTRONIC",
+        "patentPublicationIdentification": {
+          "publicationNumber": "US20230276785A1",
+          "publicationDate": "2023-09-07"
+        },
+        "relatedDocumentData": {
+          "parentDocumentDataOrChildDocumentData": [
+            {
+              "descriptionText": "This application Claims Priority from Provisional Application",
+              "applicationNumberText": "63372284",
+              "filingDate": "2022-03-02",
+              "parentDocumentStatusCode": "Expired",
+              "patentNumber": ""
+            }
+          ]
+        }
+      },
+      "prosecutionHistoryDataBag": {
+        "prosecutionHistoryData": [
+          {
+            "eventDate": "2023-09-07",
+            "eventCode": "CCRDY",
+            "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+          },
+          {
+            "eventDate": "2023-09-07",
+            "eventCode": "PG-ISSUE",
+            "eventDescriptionText": "PG-Pub Issue Notification"
+          },
+          {
+            "eventDate": "2023-07-12",
+            "eventCode": "MP033",
+            "eventDescriptionText": "Mail-Petition Decision - Granted"
+          },
+          {
+            "eventDate": "2023-07-12",
+            "eventCode": "P033",
+            "eventDescriptionText": "Petition Decision - Granted"
+          },
+          {
+            "eventDate": "2023-07-12",
+            "eventCode": "PET.",
+            "eventDescriptionText": "Petition Entered"
+          },
+          {
+            "eventDate": "2023-07-10",
+            "eventCode": "ELC_RVW",
+            "eventDescriptionText": "Electronic Review"
+          },
+          {
+            "eventDate": "2023-07-10",
+            "eventCode": "ELC_RVW",
+            "eventDescriptionText": "Electronic Review"
+          },
+          {
+            "eventDate": "2023-05-30",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-05-30",
+            "eventCode": "MOPPT",
+            "eventDescriptionText": "Mail O.P. Petition Decision"
+          },
+          {
+            "eventDate": "2023-05-24",
+            "eventCode": "MPTGR",
+            "eventDescriptionText": "Mail-Petition Decision - Granted"
+          },
+          {
+            "eventDate": "2023-05-23",
+            "eventCode": "PTGR",
+            "eventDescriptionText": "Petition Decision - Granted"
+          },
+          {
+            "eventDate": "2023-05-11",
+            "eventCode": "OPPT",
+            "eventDescriptionText": "O.P. Petition Decision"
+          },
+          {
+            "eventDate": "2023-03-15",
+            "eventCode": "PET.",
+            "eventDescriptionText": "Petition Entered"
+          },
+          {
+            "eventDate": "2023-04-13",
+            "eventCode": "PST_CRD",
+            "eventDescriptionText": "Mail Post Card"
+          },
+          {
+            "eventDate": "2023-04-05",
+            "eventCode": "EML_NTF",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-04-05",
+            "eventCode": "EML_NTF",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-04-05",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-04-05",
+            "eventCode": "INCD",
+            "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned "
+          },
+          {
+            "eventDate": "2023-04-05",
+            "eventCode": "MPEN",
+            "eventDescriptionText": "Mail Pre-Exam Notice"
+          },
+          {
+            "eventDate": "2023-04-05",
+            "eventCode": "INCD",
+            "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned "
+          },
+          {
+            "eventDate": "2023-04-05",
+            "eventCode": "FLRCPT.O",
+            "eventDescriptionText": "Filing Receipt"
+          },
+          {
+            "eventDate": "2023-04-03",
+            "eventCode": "SMAL",
+            "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+          },
+          {
+            "eventDate": "2023-03-16",
+            "eventCode": "MP003",
+            "eventDescriptionText": "Mail-Record Petition Decision of Granted to Make Special"
+          },
+          {
+            "eventDate": "2023-03-15",
+            "eventCode": "P003",
+            "eventDescriptionText": "Record Petition Decision of Granted to Make Special"
+          },
+          {
+            "eventDate": "2023-03-15",
+            "eventCode": "PET.",
+            "eventDescriptionText": "Petition Entered"
+          },
+          {
+            "eventDate": "2023-03-15",
+            "eventCode": "BIG.",
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+          },
+          {
+            "eventDate": "2023-03-15",
+            "eventCode": "IEXX",
+            "eventDescriptionText": "Initial Exam Team nn"
+          }
+        ]
+      },
+      "contentResourceBag": {
+        "contentResource": [
+          {
+            "officialDate": "2023-09-06",
+            "documentCode": "NTC.PUB",
+            "descriptionText": "Notice of Publication",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-07-12",
+            "documentCode": "PET.AUTO",
+            "descriptionText": "ePetition Request Form",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-07-12",
+            "documentCode": "N417",
+            "descriptionText": "Electronic Filing System(EFS) Acknowledgment Receipt",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-07-12",
+            "documentCode": "PET.DEC.AUTO",
+            "descriptionText": "ePetition Grant Letter",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-05-29",
+            "documentCode": "APP.FILE.REC",
+            "descriptionText": "Filing Receipt",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 4
+          },
+          {
+            "officialDate": "2023-05-29",
+            "documentCode": "PETDEC",
+            "descriptionText": "Petition Decision",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 3
+          },
+          {
+            "officialDate": "2023-04-04",
+            "documentCode": "APP.FILE.REC",
+            "descriptionText": "Filing Receipt",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 4
+          },
+          {
+            "officialDate": "2023-04-04",
+            "documentCode": "WFEE",
+            "descriptionText": "Fee Worksheet (SB06)",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-04-04",
+            "documentCode": "NTC.MISS.PRT",
+            "descriptionText": "Notice to File Missing Parts",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "PET.AUTO",
+            "descriptionText": "ePetition Request Form",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "PET.DEC.AUTO",
+            "descriptionText": "ePetition Grant Letter",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "N417",
+            "descriptionText": "Electronic Filing System(EFS) Acknowledgment Receipt",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "DRW.NONBW",
+            "descriptionText": "Drawings-other than black and white line drawings",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 28
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "N417",
+            "descriptionText": "Electronic Filing System(EFS) Acknowledgment Receipt",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 4
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "PA..",
+            "descriptionText": "Power of Attorney",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "WFEE",
+            "descriptionText": "Fee Worksheet (SB06)",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "SPEC",
+            "descriptionText": "Specification",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 17
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "CLM",
+            "descriptionText": "Claims",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 3
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "ABST",
+            "descriptionText": "Abstract",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "ADS",
+            "descriptionText": "Application Data Sheet",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 8
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "PET.OP",
+            "descriptionText": "Petition for review by the Office of Petitions",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "PA..",
+            "descriptionText": "Power of Attorney",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "PA..",
+            "descriptionText": "Power of Attorney",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "OATH",
+            "descriptionText": "Oath or Declaration filed",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "OATH",
+            "descriptionText": "Oath or Declaration filed",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "OATH",
+            "descriptionText": "Oath or Declaration filed",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "OATH",
+            "descriptionText": "Oath or Declaration filed",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "OATH",
+            "descriptionText": "Oath or Declaration filed",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-15",
+            "documentCode": "PA..",
+            "descriptionText": "Power of Attorney",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-03-14",
+            "documentCode": "SCORE",
+            "descriptionText": "Placeholder sheet indicating presence of supplemental content in Supplemental Complex Repository for Examiners(SCORE)",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          }
+        ]
+      },
+      "st96Version": "V4_0",
+      "ipoVersion": "US_V9_0"
+    },
+    {
+      "patentCaseMetadata": {
+        "applicationNumberText": {
+          "value": "18129579",
+          "electronicText": "18129579"
+        },
+        "filingDate": "2023-03-31",
+        "applicationTypeCategory": "Utility",
+        "partyBag": {},
+        "groupArtUnitNumber": { "value": "3791", "electronicText": "3791" },
+        "applicationConfirmationNumber": "1493",
+        "applicantFileReference": "2202.0068",
+        "patentClassificationBag": {
+          "cpcClassificationBagOrIPCClassificationOrECLAClassificationBag": [
+            {
+              "ipOfficeCode": "US",
+              "mainNationalClassification": {
+                "nationalClass": "600",
+                "nationalSubclass": "038000"
+              }
+            }
+          ]
+        },
+        "businessEntityStatusCategory": "SMALL",
+        "firstInventorToFileIndicator": "Other",
+        "inventionTitle": { "content": ["PHYSICAL STIMULATION DEVICE"] },
+        "applicationStatusCategory": "Docketed New Case - Ready for Examination",
+        "applicationStatusDate": "2023-11-14",
+        "officialFileLocationCategory": "ELECTRONIC",
+        "patentPublicationIdentification": {
+          "publicationNumber": "US20230310261A1",
+          "publicationDate": "2023-10-05"
+        },
+        "relatedDocumentData": {
+          "parentDocumentDataOrChildDocumentData": [
+            {
+              "descriptionText": "This application Claims Priority from Provisional Application",
+              "applicationNumberText": "63326096",
+              "filingDate": "2022-03-31",
+              "parentDocumentStatusCode": "Expired",
+              "patentNumber": ""
+            }
+          ]
+        }
+      },
+      "prosecutionHistoryDataBag": {
+        "prosecutionHistoryData": [
+          {
+            "eventDate": "2023-11-15",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-11-14",
+            "eventCode": "DOCK",
+            "eventDescriptionText": "Case Docketed to Examiner in GAU"
+          },
+          {
+            "eventDate": "2023-11-14",
+            "eventCode": "OIPE",
+            "eventDescriptionText": "Application Dispatched from OIPE"
+          },
+          {
+            "eventDate": "2023-11-14",
+            "eventCode": "FTFS",
+            "eventDescriptionText": "FITF set to YES - revise initial setting"
+          },
+          {
+            "eventDate": "2023-11-14",
+            "eventCode": "PTA.RFE",
+            "eventDescriptionText": "Patent Term Adjustment - Ready for Examination"
+          },
+          {
+            "eventDate": "2023-11-15",
+            "eventCode": "COMP",
+            "eventDescriptionText": "Application Is Now Complete"
+          },
+          {
+            "eventDate": "2023-11-15",
+            "eventCode": "MPEN",
+            "eventDescriptionText": "Mail Pre-Exam Notice"
+          },
+          {
+            "eventDate": "2023-11-15",
+            "eventCode": "COMP",
+            "eventDescriptionText": "Application Is Now Complete"
+          },
+          {
+            "eventDate": "2023-11-15",
+            "eventCode": "FLRCPT.U",
+            "eventDescriptionText": "Filing Receipt - Updated"
+          },
+          {
+            "eventDate": "2023-10-05",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-10-05",
+            "eventCode": "CCRDY",
+            "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+          },
+          {
+            "eventDate": "2023-10-05",
+            "eventCode": "PG-ISSUE",
+            "eventDescriptionText": "PG-Pub Issue Notification"
+          },
+          {
+            "eventDate": "2023-04-21",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-04-21",
+            "eventCode": "INCD",
+            "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned "
+          },
+          {
+            "eventDate": "2023-04-21",
+            "eventCode": "MPEN",
+            "eventDescriptionText": "Mail Pre-Exam Notice"
+          },
+          {
+            "eventDate": "2023-04-21",
+            "eventCode": "INCD",
+            "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned "
+          },
+          {
+            "eventDate": "2023-04-21",
+            "eventCode": "FLRCPT.O",
+            "eventDescriptionText": "Filing Receipt"
+          },
+          {
+            "eventDate": "2023-03-31",
+            "eventCode": "SREXR141",
+            "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+          },
+          {
+            "eventDate": "2023-03-31",
+            "eventCode": "APPERMS",
+            "eventDescriptionText": "Applicants have given acceptable permission for participating foreign "
+          },
+          {
+            "eventDate": "2023-04-20",
+            "eventCode": "SMAL",
+            "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+          },
+          {
+            "eventDate": "2023-03-31",
+            "eventCode": "BIG.",
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+          },
+          {
+            "eventDate": "2023-03-31",
+            "eventCode": "IEXX",
+            "eventDescriptionText": "Initial Exam Team nn"
+          }
+        ]
+      },
+      "st96Version": "V4_0",
+      "ipoVersion": "US_V9_0"
+    },
+    {
+      "patentCaseMetadata": {
+        "applicationNumberText": {
+          "value": "18271061",
+          "electronicText": "18271061"
+        },
+        "filingDate": "2023-07-06",
+        "partyBag": {
+          "applicantBagOrInventorBagOrOwnerBag": [
+            {
+              "applicant": [
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "organizationStandardName": {
+                              "content": ["Evoqua Water Technologies LLC"]
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "Pittsburgh",
+                      "geographicRegionName": {
+                        "value": "PA",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "US"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partyIdentifierOrContact": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      {
+                        "personStructuredName": {
+                          "lastName": "Evoqua Water Technologies LLC"
+                        }
+                      }
+                    ]
+                  },
+                  "postalAddressBag": {
+                    "postalAddress": [
+                      {
+                        "postalStructuredAddress": {
+                          "addressLineText": [
+                            { "value": "U0105" },
+                            { "value": "Intellectual Property Department" },
+                            { "value": "558 Clark Rd." }
+                          ],
+                          "cityName": "Tewksbury",
+                          "geographicRegionName": [{ "value": "MA" }],
+                          "countryCode": "US",
+                          "postalCode": "01876"
+                        }
+                      }
+                    ]
+                  }
+                },
+                { "value": "56885" }
+              ]
+            }
+          ]
+        },
+        "applicationConfirmationNumber": "7825",
+        "applicantFileReference": "2021P00001WOUS",
+        "businessEntityStatusCategory": "UNDISCOUNTED",
+        "firstInventorToFileIndicator": "Other",
+        "inventionTitle": {
+          "content": [
+            "INTERNET-OF-THINGS ENABLED DEIONIZATION TANK CONFIGURATION ARTIFICIAL INTELLIGENCE ALGORITHM"
+          ]
+        },
+        "applicationStatusCategory": "Application Undergoing Preexam Processing",
+        "applicationStatusDate": "2023-07-06",
+        "officialFileLocationCategory": "ELECTRONIC",
+        "relatedDocumentData": {
+          "parentDocumentDataOrChildDocumentData": [
+            {
+              "descriptionText": "This application is National Stage Entry of",
+              "applicationNumberText": "PCT/US22/11933",
+              "filingDate": "2022-01-01",
+              "parentDocumentStatusCode": "-",
+              "patentNumber": ""
+            },
+            {
+              "descriptionText": "This application Claims Priority from Provisional Application",
+              "applicationNumberText": "63135778",
+              "filingDate": "2021-01-11",
+              "parentDocumentStatusCode": "Expired",
+              "patentNumber": ""
+            }
+          ]
+        }
+      },
+      "prosecutionHistoryDataBag": {
+        "prosecutionHistoryData": [
+          {
+            "eventDate": "2023-07-06",
+            "eventCode": "SREXR141",
+            "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+          },
+          {
+            "eventDate": "2023-07-06",
+            "eventCode": "APPERMS",
+            "eventDescriptionText": "Applicants have given acceptable permission for participating foreign "
+          },
+          {
+            "eventDate": "2023-10-06",
+            "eventCode": "WIDS",
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+          },
+          {
+            "eventDate": "2023-07-06",
+            "eventCode": "BIG.",
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+          },
+          {
+            "eventDate": "2023-07-06",
+            "eventCode": "IEXX",
+            "eventDescriptionText": "Initial Exam Team nn"
+          }
+        ]
+      },
+      "contentResourceBag": {
+        "contentResource": [
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "ABST",
+            "descriptionText": "Abstract",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "SPEC",
+            "descriptionText": "Specification",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 46
+          },
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "ADS",
+            "descriptionText": "Application Data Sheet",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 8
+          },
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "DRW",
+            "descriptionText": "Drawings-only black and white line drawings",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 11
+          },
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "N417",
+            "descriptionText": "Electronic Filing System(EFS) Acknowledgment Receipt",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 3
+          },
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "CLM",
+            "descriptionText": "Claims",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 5
+          },
+          {
+            "officialDate": "2023-07-06",
+            "documentCode": "WFEE",
+            "descriptionText": "Fee Worksheet (SB06)",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-07-05",
+            "documentCode": "371P",
+            "descriptionText": "Documents submitted with 371 (National Stage) Applications",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-07-05",
+            "documentCode": "371P",
+            "descriptionText": "Documents submitted with 371 (National Stage) Applications",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          },
+          {
+            "officialDate": "2023-07-05",
+            "documentCode": "FRPR",
+            "descriptionText": "Certified Copy of Foreign Priority Application",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 23
+          },
+          {
+            "officialDate": "2023-07-05",
+            "documentCode": "SPEC",
+            "descriptionText": "Specification",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 46
+          },
+          {
+            "officialDate": "2023-07-05",
+            "documentCode": "CLM",
+            "descriptionText": "Claims",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 5
+          },
+          {
+            "officialDate": "2023-07-05",
+            "documentCode": "ABST",
+            "descriptionText": "Abstract",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 2
+          },
+          {
+            "officialDate": "2023-07-05",
+            "documentCode": "DRW",
+            "descriptionText": "Drawings-only black and white line drawings",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 11
+          },
+          {
+            "officialDate": "2023-07-05",
+            "documentCode": "P.N.101.CONV",
+            "descriptionText": "PCT/RO/101 - Request form for new International Application - Conventional",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 4
+          },
+          {
+            "officialDate": "2023-07-05",
+            "documentCode": "SCORE",
+            "descriptionText": "Placeholder sheet indicating presence of supplemental content in Supplemental Complex Repository for Examiners(SCORE)",
+            "documentCategory": "PROSECUTION",
+            "pageTotalQuantity": 1
+          }
+        ]
+      },
+      "st96Version": "V4_0",
+      "ipoVersion": "US_V9_0"
+    },
+    {
+      "patentCaseMetadata": {
+        "applicationNumberText": {
+          "value": "18282724",
+          "electronicText": "18282724"
+        },
+        "filingDate": "2023-09-18",
+        "partyBag": {
+          "applicantBagOrInventorBagOrOwnerBag": [
+            {
+              "applicant": [
+                {
+                  "contactOrPublicationContact": [
+                    {
+                      "name": {
+                        "personNameOrOrganizationNameOrEntityName": [
+                          {
+                            "organizationStandardName": {
+                              "content": [
+                                "IEE INTERNATIONAL ELECTRONICS & ENGINEERING S.A."
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "cityName": "ECHTERNACH",
+                      "geographicRegionName": {
+                        "value": "",
+                        "geographicRegionCategory": "STATE"
+                      },
+                      "countryCode": "LU"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partyIdentifierOrContact": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      {
+                        "personStructuredName": {
+                          "lastName": "JAMES D. STEVENS"
+                        }
+                      }
+                    ]
+                  },
+                  "postalAddressBag": {
+                    "postalAddress": [
+                      {
+                        "postalStructuredAddress": {
+                          "addressLineText": [
+                            { "value": "REISING ETHINGTON P.C." },
+                            { "value": "755 W. BIG BEAVER RD." },
+                            { "value": "SUITE 1850" }
+                          ],
+                          "cityName": "TROY",
+                          "geographicRegionName": [{ "value": "MI" }],
+                          "countryCode": "US",
+                          "postalCode": "48084"
+                        }
+                      }
+                    ]
+                  }
+                },
+                { "value": "29318" }
+              ]
+            }
+          ]
+        },
+        "applicationConfirmationNumber": "1003",
+        "applicantFileReference": "8527-3172-US1",
+        "priorityClaimBag": {
+          "priorityClaim": [
+            {
+              "ipOfficeName": "LUXEMBOURG",
+              "applicationNumber": { "applicationNumberText": "LU102686" },
+              "filingDate": "2021-03-18",
+              "sequenceNumber": "1"
+            }
+          ]
+        },
+        "businessEntityStatusCategory": "UNDISCOUNTED",
+        "firstInventorToFileIndicator": "Other",
+        "inventionTitle": {
+          "content": ["BATTERY PACK AND BATTERY MANAGEMENT SYSTEM"]
+        },
+        "applicationStatusCategory": "Application Undergoing Preexam Processing",
+        "applicationStatusDate": "2023-09-18",
+        "officialFileLocationCategory": "ELECTRONIC",
+        "relatedDocumentData": {
+          "parentDocumentDataOrChildDocumentData": [
+            {
+              "descriptionText": "This application is National Stage Entry of",
+              "applicationNumberText": "PCT/EP2022/056112",
+              "filingDate": "2022-03-10",
+              "parentDocumentStatusCode": "Published",
+              "patentNumber": ""
+            }
+          ]
+        }
+      },
+      "prosecutionHistoryDataBag": {
+        "prosecutionHistoryData": [
+          {
+            "eventDate": "2023-09-18",
+            "eventCode": "SREXR141",
+            "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+          },
+          {
+            "eventDate": "2023-09-18",
+            "eventCode": "APPERMS",
+            "eventDescriptionText": "Applicants have given acceptable permission for participating foreign "
+          },
+          {
+            "eventDate": "2023-10-18",
+            "eventCode": "EML_NTR",
+            "eventDescriptionText": "Email Notification"
+          },
+          {
+            "eventDate": "2023-10-17",
+            "eventCode": "MPDPH",
+            "eventDescriptionText": "Mail Pet Dec PPH Decision"
+          },
+          {
+            "eventDate": "2023-10-17",
+            "eventCode": "MP003",
+            "eventDescriptionText": "Mail-Record Petition Decision of Granted to Make Special"
+          },
+          {
+            "eventDate": "2023-10-16",
+            "eventCode": "P003",
+            "eventDescriptionText": "Record Petition Decision of Granted to Make Special"
+          },
+          {
+            "eventDate": "2023-10-15",
+            "eventCode": "PDPH",
+            "eventDescriptionText": "Pet Dec PPH Decision"
+          },
+          {
+            "eventDate": "2023-09-18",
+            "eventCode": "PET.",
+            "eventDescriptionText": "Petition Entered"
+          },
+          {
+            "eventDate": "2023-09-18",
+            "eventCode": "WIDS",
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+          },
+          {
+            "eventDate": "2023-09-18",
+            "eventCode": "BIG.",
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+          },
+          {
+            "eventDate": "2023-09-18",
+            "eventCode": "IEXX",
+            "eventDescriptionText": "Initial Exam Team nn"
+          }
+        ]
+      },
+      "assignmentDataBag": {
+        "assignmentData": [
+          {
+            "reelNumber": "64940",
+            "frameNumber": "178",
+            "documentReceivedDate": "09-18-2023",
+            "recordedDate": "09-18-2023",
+            "mailDate": "09-20-2023",
+            "pageTotalQuantity": 2,
+            "conveyanceText": "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+            "correspondenceAddress": {
+              "partyIdentifierOrContact": [
+                {
+                  "name": {
+                    "personNameOrOrganizationNameOrEntityName": [
+                      { "value": "JAMES D. STEVENS" }
+                    ]
+                  },
+                  "postalAddressBag": {
+                    "postalAddress": [
+                      {
+                        "postalAddressText": [
+                          {
+                            "sequenceNumber": "1",
+                            "value": "755 W.BIG BEAVER, SUITE 1850"
+                          },
+                          { "sequenceNumber": "2", "value": "TROY, MI 48084" }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "sequenceNumber": "1"
+          }
+        ],
+        "assignmentTotalQuantity": 1
+      },
+      "st96Version": "V4_0",
+      "ipoVersion": "US_V9_0"
+    }
+  ]
+}
