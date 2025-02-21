@@ -1,0 +1,3844 @@
+{
+    "queryResults": {
+        "indexLastUpdatedDate": "Sun Oct 20 18:42:33 EDT 2024",
+        "searchResponse": {
+            "responseHeader": {
+                "zkConnected": true,
+                "status": 0,
+                "QTime": 1060
+            },
+            "response": {
+                "numFound": 5612286,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "applId": "02209192",
+                        "appFilingDate": "1927-07-28T00:00:00Z",
+                        "publicInd": "Y",
+                        "appLocationDate": "1995-10-11T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "02209192",
+                        "applIdStr": "02209192",
+                        "appl_id_txt": "02209192",
+                        "patentNumber": "1726067",
+                        "LAST_MOD_TS": "2024-10-19T22:41:17Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1988-05-03T00:00:00Z",
+                        "firstInventorFile": "No",
+                        "patentIssueDate": "1929-08-27T00:00:00Z",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "2190",
+                        "lastUpdatedTimestamp": "2024-10-20T22:25:31.642Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416264216577,
+                        "firstInventorFileFacet": "No",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "1726067"
+                    },
+                    {
+                        "applId": "02714909",
+                        "appFilingDate": "1934-03-10T00:00:00Z",
+                        "publicInd": "Y",
+                        "appLocationDate": "1987-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "02714909",
+                        "applIdStr": "02714909",
+                        "appl_id_txt": "02714909",
+                        "patentNumber": "2029476",
+                        "LAST_MOD_TS": "2011-12-10T00:01:20Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1987-03-30T00:00:00Z",
+                        "firstInventorFile": "No",
+                        "patentIssueDate": "1935-07-17T00:00:00Z",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "4771",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.425Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055411568642,
+                        "firstInventorFileFacet": "No",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "2029476"
+                    },
+                    {
+                        "applId": "03323947",
+                        "appFilingDate": "1952-12-03T00:00:00Z",
+                        "publicInd": "Y",
+                        "appLocationDate": "1986-09-19T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03323947",
+                        "applIdStr": "03323947",
+                        "appl_id_txt": "03323947",
+                        "patentNumber": "2728779",
+                        "LAST_MOD_TS": "2012-05-01T11:37:31Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "1986-09-26 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1986-09-19 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1986-09-19 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1986-09-19T00:00:00Z",
+                        "firstInventorFile": "No",
+                        "patentIssueDate": "1955-12-27T00:00:00Z",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "6020",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.612Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055500697600,
+                        "firstInventorFileFacet": "No",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "2728779"
+                    },
+                    {
+                        "applId": "03324609",
+                        "publicInd": "Y",
+                        "appLocationDate": "1985-09-13T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03324609",
+                        "applIdStr": "03324609",
+                        "appl_id_txt": "03324609",
+                        "patentNumber": "2726231",
+                        "LAST_MOD_TS": "2012-05-01T11:40:28Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "1986-05-01 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1986-05-01 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1985-09-13 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1985-09-13 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1985-09-13T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "patentIssueDate": "1955-12-06T00:00:00Z",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "6025",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.612Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055500697601,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "2726231"
+                    },
+                    {
+                        "applId": "03333576",
+                        "publicInd": "Y",
+                        "appLocationDate": "2016-05-19T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03333576",
+                        "applIdStr": "03333576",
+                        "appl_id_txt": "03333576",
+                        "LAST_MOD_TS": "2024-10-19T22:20:54Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2008-04-15 00:00:00",
+                                "code": "LFFOUND",
+                                "description": "File Marked Found"
+                            },
+                            {
+                                "recordDate": "2001-11-06 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "2001-10-10 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "2000-09-21 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "2000-08-16 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "2000-08-16 00:00:00",
+                                "code": "LFLOST",
+                                "description": "File Marked Lost"
+                            },
+                            {
+                                "recordDate": "1999-02-11 00:00:00",
+                                "code": "FOND",
+                                "description": "Case Found"
+                            },
+                            {
+                                "recordDate": "1995-10-06 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1995-09-20 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1995-09-08 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1995-09-01 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1992-09-10 00:00:00",
+                                "code": "FOND",
+                                "description": "Case Found"
+                            },
+                            {
+                                "recordDate": "1991-02-20 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1991-01-22 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-01-11 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1989-08-23T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "05181185",
+                                "applicationNumberText": "03333576",
+                                "filingDate": "09-16-1971",
+                                "aiaIndicator": "",
+                                "patentNumberText": "4342854",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "6059",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:29.341Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416265265153,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03337899",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03337899",
+                        "applIdStr": "03337899",
+                        "appl_id_txt": "03337899",
+                        "LAST_MOD_TS": "2024-10-19T22:20:54Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "1996-09-23 00:00:00",
+                                "code": "FOND",
+                                "description": "Case Found"
+                            },
+                            {
+                                "recordDate": "1996-09-12 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1996-09-03 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1989-05-09T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "05697189",
+                                "applicationNumberText": "03337899",
+                                "filingDate": "06-17-1976",
+                                "aiaIndicator": "",
+                                "patentNumberText": "4191346",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "05852347",
+                                "applicationNumberText": "03337899",
+                                "filingDate": "11-17-1977",
+                                "aiaIndicator": "",
+                                "patentNumberText": "4185797",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "06117598",
+                                "applicationNumberText": "03337899",
+                                "filingDate": "02-01-1980",
+                                "aiaIndicator": "",
+                                "patentNumberText": "4307855",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "6075",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:25.695Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416258973697,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03424499",
+                        "appFilingDate": "1954-04-20T00:00:00Z",
+                        "publicInd": "Y",
+                        "appLocationDate": "1992-06-15T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03424499",
+                        "applIdStr": "03424499",
+                        "appl_id_txt": "03424499",
+                        "patentNumber": "2782133",
+                        "LAST_MOD_TS": "2012-05-01T11:43:17Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1986-01-29T00:00:00Z",
+                        "firstInventorFile": "No",
+                        "patentIssueDate": "1957-02-19T00:00:00Z",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "6389",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.425Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055418908672,
+                        "firstInventorFileFacet": "No",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "2782133"
+                    },
+                    {
+                        "applId": "03450131",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03450131",
+                        "applIdStr": "03450131",
+                        "appl_id_txt": "03450131",
+                        "LAST_MOD_TS": "2012-05-01T11:28:27Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "1994-06-10 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1994-06-06 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1994-05-10 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1994-05-04 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1993-03-08 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1993-02-10 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1993-02-01 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1991-06-06 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1991-05-02 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-04-25 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1990-10-11 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1990-09-21 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1990-09-12 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1990-08-28 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1987-08-13T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "90001634",
+                                "applicationNumberText": "03450131",
+                                "filingDate": "11-03-1988",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "Pending",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90001707",
+                                "applicationNumberText": "03450131",
+                                "filingDate": "02-03-1989",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "6482",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.425Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055419957249,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03476306",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03476306",
+                        "applIdStr": "03476306",
+                        "appl_id_txt": "03476306",
+                        "LAST_MOD_TS": "2024-10-19T22:20:54Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "2000-09-12 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "2000-04-12 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "2000-03-15 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "2000-02-10 00:00:00",
+                                "code": "LFLOST",
+                                "description": "File Marked Lost"
+                            },
+                            {
+                                "recordDate": "1999-09-10 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1999-08-09 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1999-07-28 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1998-06-17 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1998-06-01 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1995-10-04 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1995-09-20 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1995-09-08 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1995-09-01 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1991-11-07 00:00:00",
+                                "code": "FOND",
+                                "description": "Case Found"
+                            },
+                            {
+                                "recordDate": "1991-10-31 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-10-22 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1991-02-22 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1991-02-22 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-01-22 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-01-16 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1989-04-20T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "05181185",
+                                "applicationNumberText": "03476306",
+                                "filingDate": "09-16-1971",
+                                "aiaIndicator": "",
+                                "patentNumberText": "4342854",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "6602",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:25.693Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416255827969,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03482412",
+                        "publicInd": "Y",
+                        "appLocationDate": "1989-05-31T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03482412",
+                        "applIdStr": "03482412",
+                        "appl_id_txt": "03482412",
+                        "LAST_MOD_TS": "2012-05-01T11:26:52Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2002-07-10 00:00:00",
+                                "code": "LFLOST",
+                                "description": "File Marked Lost"
+                            },
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "1995-08-04 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1995-07-11 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1995-06-29 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1995-03-21 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1995-02-23 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1995-02-14 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1992-02-28 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1992-01-29 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1992-01-22 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1991-10-18 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1991-09-18 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-09-11 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1991-03-07 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-03-04 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1989-04-10T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "90001355",
+                                "applicationNumberText": "03482412",
+                                "filingDate": "10-16-1987",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "6632",
+                        "lastUpdatedTimestamp": "2022-11-08T01:26:50.196Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889346852782082,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03527413",
+                        "publicInd": "Y",
+                        "appLocationDate": "1986-06-06T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03527413",
+                        "applIdStr": "03527413",
+                        "appl_id_txt": "03527413",
+                        "LAST_MOD_TS": "2012-05-01T11:56:16Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2002-07-10 00:00:00",
+                                "code": "LFLOST",
+                                "description": "File Marked Lost"
+                            },
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "1995-08-11 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1995-07-11 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1995-06-28 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1995-03-23 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1995-02-23 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1995-02-14 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1992-02-26 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1992-02-26 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1992-01-22 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1991-10-23 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1991-09-26 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-09-11 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1991-03-21 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1991-02-22 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-02-15 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1990-03-21 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1990-03-16 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1989-01-17 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1989-01-17 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1988-07-27 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1988-06-14 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1988-05-31 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1987-03-26 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1987-02-18 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1987-02-10 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1987-01-05 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1986-12-09 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1986-12-09 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1986-11-26 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1986-11-25 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1986-11-24 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1986-11-10 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1986-10-27 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1986-10-20 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1986-06-19 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1986-06-16 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1986-06-06 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1986-06-06 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1986-06-06T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "90001355",
+                                "applicationNumberText": "03527413",
+                                "filingDate": "10-16-1987",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "6853",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.612Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055503843328,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03562595",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03562595",
+                        "applIdStr": "03562595",
+                        "appl_id_txt": "03562595",
+                        "LAST_MOD_TS": "2012-05-01T12:09:01Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1984-01-20T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "90000467",
+                                "applicationNumberText": "03562595",
+                                "filingDate": "11-14-1983",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "7066",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.612Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055503843330,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03568707",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03568707",
+                        "applIdStr": "03568707",
+                        "appl_id_txt": "03568707",
+                        "LAST_MOD_TS": "2024-10-19T22:20:54Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2002-09-04 00:00:00",
+                                "code": "LFLOST",
+                                "description": "File Marked Lost"
+                            },
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "1999-08-10 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1999-07-12 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1999-06-04 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1985-03-26 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1985-03-22 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1984-07-23T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "06198832",
+                                "applicationNumberText": "03568707",
+                                "filingDate": "10-20-1980",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "Abandoned",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000729",
+                                "applicationNumberText": "03568707",
+                                "filingDate": "02-26-1985",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "Pending",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "7109",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:29.341Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416255827969,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03580410",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03580410",
+                        "applIdStr": "03580410",
+                        "appl_id_txt": "03580410",
+                        "LAST_MOD_TS": "2011-12-10T00:01:21Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1984-02-29T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "90000052",
+                                "applicationNumberText": "03580410",
+                                "filingDate": "08-12-1981",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "Pending",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "7174",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.425Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055422054401,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03634860",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03634860",
+                        "applIdStr": "03634860",
+                        "appl_id_txt": "03634860",
+                        "LAST_MOD_TS": "2024-10-19T22:20:54Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1987-05-15T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "05959435",
+                                "applicationNumberText": "03634860",
+                                "filingDate": "11-09-1978",
+                                "aiaIndicator": "",
+                                "patentNumberText": "RE30340",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "7512",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:29.341Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416261070848,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03757645",
+                        "appFilingDate": "1981-12-18T00:00:00Z",
+                        "appExamName": "NELSON, PETER A",
+                        "appExamNameFacet": "NELSON, PETER A",
+                        "publicInd": "Y",
+                        "appLocationDate": "2018-06-22T00:00:00Z",
+                        "APP_IND": "5",
+                        "inventorName": "Unknown  Unknown",
+                        "inventorNameFacet": "Unknown  Unknown",
+                        "corrAddrGeoRegionCode": "VA",
+                        "corrAddrNameLineTwo": "OFFICE OF NAVAL RESEARCH",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03757645",
+                        "appGrpArtNumber": "3641",
+                        "appGrpArtNumberFacet": "3641",
+                        "applIdStr": "03757645",
+                        "appl_id_txt": "03757645",
+                        "appSubCls": "019300",
+                        "patentNumber": "5679921",
+                        "LAST_MOD_TS": "2024-10-19T14:58:56Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2009-10-21 00:00:00",
+                                "code": "EXP.",
+                                "description": "Expire Patent"
+                            },
+                            {
+                                "recordDate": "2010-04-13 00:00:00",
+                                "code": "WROIPE",
+                                "description": "Application Return from OIPE"
+                            },
+                            {
+                                "recordDate": "1981-12-18 00:00:00",
+                                "code": "FLRCPT.O",
+                                "description": "Filing Receipt"
+                            },
+                            {
+                                "recordDate": "2009-11-10 00:00:00",
+                                "code": "OIPE",
+                                "description": "Application Dispatched from OIPE"
+                            },
+                            {
+                                "recordDate": "2009-11-10 00:00:00",
+                                "code": "ROIPE",
+                                "description": "Application Return TO OIPE"
+                            },
+                            {
+                                "recordDate": "1997-10-21 00:00:00",
+                                "code": "PGM/",
+                                "description": "Recordation of Patent Grant Mailed"
+                            },
+                            {
+                                "recordDate": "1997-09-15 00:00:00",
+                                "code": "WPIR",
+                                "description": "Issue Notification Mailed"
+                            },
+                            {
+                                "recordDate": "1997-06-16 00:00:00",
+                                "code": "N084",
+                                "description": "Issue Fee Payment Verified"
+                            },
+                            {
+                                "recordDate": "1997-05-27 00:00:00",
+                                "code": "MN/=.",
+                                "description": "Mail Notice of Allowance"
+                            },
+                            {
+                                "recordDate": "1997-05-27 00:00:00",
+                                "code": "N/=.",
+                                "description": "Notice of Allowance Data Verification Completed"
+                            },
+                            {
+                                "recordDate": "1997-05-21 00:00:00",
+                                "code": "DOCK",
+                                "description": "Case Docketed to Examiner in GAU"
+                            },
+                            {
+                                "recordDate": "1997-05-08 00:00:00",
+                                "code": "L135",
+                                "description": "Security Classification Markings Removed"
+                            },
+                            {
+                                "recordDate": "1997-01-07 00:00:00",
+                                "code": "MCTEQ",
+                                "description": "Mail Ex Parte Quayle Action (PTOL - 326)"
+                            },
+                            {
+                                "recordDate": "1997-01-06 00:00:00",
+                                "code": "CTEQ",
+                                "description": "Quayle action"
+                            },
+                            {
+                                "recordDate": "1997-01-06 00:00:00",
+                                "code": "DOCK",
+                                "description": "Case Docketed to Examiner in GAU"
+                            },
+                            {
+                                "recordDate": "1996-12-30 00:00:00",
+                                "code": "L134",
+                                "description": "Secrecy Order Rescinded"
+                            },
+                            {
+                                "recordDate": "1996-02-13 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1995-02-14 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1994-02-15 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1993-02-09 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1991-11-18 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1990-09-07 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1989-11-24 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1988-09-27 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1987-09-23 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1986-07-16 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1985-07-17 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1984-07-19 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1983-07-19 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1982-07-22 00:00:00",
+                                "code": "L133",
+                                "description": "Secrecy Order Renewed"
+                            },
+                            {
+                                "recordDate": "1981-12-18 00:00:00",
+                                "code": "L132",
+                                "description": "Secrecy Order Imposed"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appCls": "149",
+                        "appStatus": "Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362",
+                        "appStatusFacet": "Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362",
+                        "appStatus_txt": "Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362",
+                        "patentTitle": "INFRA-RED TRACKING FLARE ",
+                        "appStatusDate": "2018-01-20T00:00:00Z",
+                        "inventors": [
+                            {
+                                "nameLineOne": "Unknown",
+                                "nameLineTwo": "Unknown ",
+                                "suffix": "",
+                                "streetOne": "",
+                                "streetTwo": "",
+                                "city": ", ",
+                                "geoCode": "",
+                                "country": "()",
+                                "rankNo": "1"
+                            }
+                        ],
+                        "inventorsFacet": "{Unknown||Unknown|||||||IND|1}",
+                        "corrAddrStreetLineOne": "ARLINGTON,",
+                        "firstInventorFile": "No",
+                        "appType": "Utility",
+                        "appTypeFacet": "Utility",
+                        "corrAddrPostalCode": "22217",
+                        "appClsSubCls": "149/019300",
+                        "appClsSubClsFacet": "149/019300",
+                        "patentIssueDate": "1997-10-21T00:00:00Z",
+                        "corrAddrNameLineOne": "DEPT. OF THE NAVY",
+                        "corrAddrCountryCd": "US",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "8337",
+                        "lastUpdatedTimestamp": "2024-10-20T22:25:31.642Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416274702337,
+                        "firstInventorFileFacet": "No",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "5679921"
+                    },
+                    {
+                        "applId": "03804539",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03804539",
+                        "applIdStr": "03804539",
+                        "appl_id_txt": "03804539",
+                        "LAST_MOD_TS": "2011-12-10T00:14:32Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-11-06 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "2001-10-10 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "2001-08-23 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "2001-07-30 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1997-08-14 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1997-06-13 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1997-06-06 00:00:00",
+                                "code": "LFLOST",
+                                "description": "File Marked Lost"
+                            },
+                            {
+                                "recordDate": "1991-02-22 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1991-02-21 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1990-10-09 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1987-05-12T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "90000253",
+                                "applicationNumberText": "03804539",
+                                "filingDate": "09-09-1982",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000254",
+                                "applicationNumberText": "03804539",
+                                "filingDate": "09-09-1982",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000336",
+                                "applicationNumberText": "03804539",
+                                "filingDate": "03-04-1983",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "8688",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.425Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055434637312,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03804540",
+                        "publicInd": "Y",
+                        "appLocationDate": "2007-06-19T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "SUITLAND STORAGE DEPOT",
+                        "id": "03804540",
+                        "applIdStr": "03804540",
+                        "appl_id_txt": "03804540",
+                        "LAST_MOD_TS": "2024-10-19T22:20:54Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-10-26 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "2001-10-09 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "2001-08-24 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "2001-07-26 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "2001-07-26 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1997-08-14 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1997-06-13 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1997-06-05 00:00:00",
+                                "code": "LFLOST",
+                                "description": "File Marked Lost"
+                            },
+                            {
+                                "recordDate": "1994-09-08 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1994-08-12 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1994-08-05 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1993-08-30 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1993-07-30 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1993-07-26 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1993-02-09 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1993-01-11 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1992-10-02 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1990-12-12 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1990-11-13 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1990-10-09 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1990-03-13 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1990-03-07 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1988-07-18 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1988-05-03 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1988-03-17 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1988-03-14 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1988-03-07 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1987-10-22T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "05823611",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "08-11-1977",
+                                "aiaIndicator": "",
+                                "patentNumberText": "4704583",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "05840050",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "10-06-1977",
+                                "aiaIndicator": "",
+                                "patentNumberText": "4161436",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000253",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "09-09-1982",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000254",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "09-09-1982",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000336",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "03-04-1983",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "05869831",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "01-16-1978",
+                                "aiaIndicator": "",
+                                "patentNumberText": "4746201",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000253",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "09-09-1982",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000254",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "09-09-1982",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000263",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "09-29-1982",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000289",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "11-17-1982",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            },
+                            {
+                                "claimApplicationNumberText": "90000336",
+                                "applicationNumberText": "03804540",
+                                "filingDate": "03-04-1983",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "8689",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:25.695Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416278896641,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "SUITLAND STORAGE DEPOT"
+                    },
+                    {
+                        "applId": "03816046",
+                        "assignments": [
+                            {
+                                "reelNumber": "4109",
+                                "frameNumber": "487",
+                                "addressNameText": "OCCIDENTAL CHEMICAL CORPORATION",
+                                "addressLineOneText": "PATENT DEPT. P.O. BOX 189",
+                                "addressLineTwoText": "NIAGARA FALLS, NY  14302",
+                                "addressLineThreeText": "null",
+                                "addressLineFourText": "null",
+                                "mailDate": "NONE",
+                                "receivedDate": "",
+                                "recordedDate": "06-28-1982",
+                                "pagesCount": "20",
+                                "converyanceName": "EFFECTIVE APRIL 1, 1982.",
+                                "sequenceNumber": "735",
+                                "assignors": [
+                                    {
+                                        "assignorName": "HOOKER CHEMICALS & PLASTICS CORP.",
+                                        "execDate": "03-30-1982"
+                                    }
+                                ],
+                                "assignee": [
+                                    {
+                                        "assigneeName": "OCCIDENTAL CHEMICAL CORPORATION",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    }
+                                ]
+                            }
+                        ],
+                        "appFilingDate": "1959-05-27T00:00:00Z",
+                        "publicInd": "Y",
+                        "appLocationDate": "1995-01-09T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03816046",
+                        "applIdStr": "03816046",
+                        "appl_id_txt": "03816046",
+                        "appSubCls": "000000",
+                        "patentNumber": "3023086",
+                        "LAST_MOD_TS": "2024-10-19T14:58:56Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appCls": "000",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": "METHOD OF PRODUCING PHOSPHORUS PENTA-SULFIDE OF CONTROLLED REACTIVITY ",
+                        "appStatusDate": "1994-08-23T00:00:00Z",
+                        "firstInventorFile": "No",
+                        "appClsSubCls": "000/000000",
+                        "appClsSubClsFacet": "000/000000",
+                        "patentIssueDate": "1962-02-27T00:00:00Z",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "8779",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:25.695Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416277848066,
+                        "firstInventorFileFacet": "No",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "3023086"
+                    },
+                    {
+                        "applId": "03822973",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03822973",
+                        "applIdStr": "03822973",
+                        "appl_id_txt": "03822973",
+                        "LAST_MOD_TS": "2024-10-19T22:20:54Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1984-02-14T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "05676217",
+                                "applicationNumberText": "03822973",
+                                "filingDate": "04-12-1976",
+                                "aiaIndicator": "",
+                                "patentNumberText": "4192847",
+                                "applicationStatus": "Patented",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "8827",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:29.341Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416277848064,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03826370",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03826370",
+                        "applIdStr": "03826370",
+                        "appl_id_txt": "03826370",
+                        "LAST_MOD_TS": "2012-05-01T11:53:14Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2006-09-11 00:00:00",
+                                "code": "LFLOST",
+                                "description": "File Marked Lost"
+                            },
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            },
+                            {
+                                "recordDate": "1992-12-23 00:00:00",
+                                "code": "FOND",
+                                "description": "Case Found"
+                            },
+                            {
+                                "recordDate": "1991-06-03 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1991-05-03 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1991-04-25 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1990-10-17 00:00:00",
+                                "code": "TMOS",
+                                "description": "Termination of Official Search"
+                            },
+                            {
+                                "recordDate": "1990-09-25 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1990-09-25 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            },
+                            {
+                                "recordDate": "1990-08-30 00:00:00",
+                                "code": "SRCH",
+                                "description": "Official Search Conducted"
+                            },
+                            {
+                                "recordDate": "1990-08-21 00:00:00",
+                                "code": "LOST",
+                                "description": "Case Reported Lost"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1987-09-21T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "90001707",
+                                "applicationNumberText": "03826370",
+                                "filingDate": "02-03-1989",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "8855",
+                        "lastUpdatedTimestamp": "2022-11-08T01:22:50.612Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889055513280514,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "03855477",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-08-17T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "03855477",
+                        "applIdStr": "03855477",
+                        "appl_id_txt": "03855477",
+                        "LAST_MOD_TS": "2012-05-01T12:08:55Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": " ",
+                        "appStatusDate": "1991-04-08T00:00:00Z",
+                        "firstInventorFile": "Other",
+                        "childContinuity": [
+                            {
+                                "claimApplicationNumberText": "90001804",
+                                "applicationNumberText": "03855477",
+                                "filingDate": "06-30-1989",
+                                "aiaIndicator": "",
+                                "patentNumberText": "",
+                                "applicationStatus": "-",
+                                "applicationStatusDescription": "claims the benefit of"
+                            }
+                        ],
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "9081",
+                        "lastUpdatedTimestamp": "2022-11-08T01:26:50.191Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889406357372928,
+                        "firstInventorFileFacet": "Other",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)"
+                    },
+                    {
+                        "applId": "04002874",
+                        "assignments": [
+                            {
+                                "reelNumber": "4349",
+                                "frameNumber": "275",
+                                "addressNameText": "BLACK AND DECKER MFG. COMPANY",
+                                "addressLineOneText": "ATTN: PATENT DEPT.",
+                                "addressLineTwoText": "701 EAST JOPPA ROAD",
+                                "addressLineThreeText": "TOWSON, MD  21204-5552",
+                                "addressLineFourText": "null",
+                                "mailDate": "NONE",
+                                "receivedDate": "",
+                                "recordedDate": "09-27-1984",
+                                "pagesCount": "10",
+                                "converyanceName": "ASSIGNS AS OF APRIL 27, 1984 THE ENTIRE INTEREST",
+                                "sequenceNumber": "369",
+                                "assignors": [
+                                    {
+                                        "assignorName": "GENERAL ELECTRIC COMPANY  A NY CORP.",
+                                        "execDate": "08-24-1984"
+                                    }
+                                ],
+                                "assignee": [
+                                    {
+                                        "assigneeName": "BLACK & DECKER, INC., A CORP. OF DE",
+                                        "streetLineOneText": "1423 KIRKWOOD HIGHWAY",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "NEWARK",
+                                        "countryCode": "DELAWARE",
+                                        "postalCode": "19711"
+                                    }
+                                ]
+                            }
+                        ],
+                        "appFilingDate": "1966-06-30T00:00:00Z",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-06-10T00:00:00Z",
+                        "APP_IND": "1",
+                        "inventorName": "ROBERT I. GRESENS",
+                        "inventorNameFacet": "ROBERT I. GRESENS",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "04002874",
+                        "appGrpArtNumber": "2900",
+                        "appGrpArtNumberFacet": "2900",
+                        "applIdStr": "04002874",
+                        "appl_id_txt": "04002874",
+                        "appSubCls": "000000",
+                        "patentNumber": "D207695",
+                        "LAST_MOD_TS": "2024-10-19T14:58:56Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appCls": "D00",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": "ELECTRIC SABRE SAW OR SIMILAR ARTICLE ",
+                        "appStatusDate": "1985-06-13T00:00:00Z",
+                        "inventors": [
+                            {
+                                "nameLineOne": "GRESENS",
+                                "nameLineTwo": "ROBERT I.",
+                                "suffix": "",
+                                "streetOne": "",
+                                "streetTwo": "",
+                                "city": "ROCHESTER, ",
+                                "geoCode": "NY",
+                                "country": "(US)",
+                                "rankNo": "1"
+                            },
+                            {
+                                "nameLineOne": "HAUENSTEIN",
+                                "nameLineTwo": "MAX C.",
+                                "suffix": "",
+                                "streetOne": "",
+                                "streetTwo": "",
+                                "city": "MONROE, ",
+                                "geoCode": "CT",
+                                "country": "(US)",
+                                "rankNo": "2"
+                            },
+                            {
+                                "nameLineOne": "FELSKE",
+                                "nameLineTwo": "ARTHUR ",
+                                "suffix": "",
+                                "streetOne": "",
+                                "streetTwo": "",
+                                "city": "WESTPORT, ",
+                                "geoCode": "CT",
+                                "country": "(US)",
+                                "rankNo": "3"
+                            }
+                        ],
+                        "inventorsFacet": "{ROBERT|I.|GRESENS||||ROCHESTER|NY|US|IND|1},{MAX|C.|HAUENSTEIN||||MONROE|CT|US|IND|2},{ARTHUR||FELSKE||||WESTPORT|CT|US|IND|3}",
+                        "firstInventorFile": "No",
+                        "appType": "Design",
+                        "appTypeFacet": "Design",
+                        "appClsSubCls": "D00/000000",
+                        "appClsSubClsFacet": "D00/000000",
+                        "patentIssueDate": "1967-05-16T00:00:00Z",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "9205",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:29.341Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416269459456,
+                        "firstInventorFileFacet": "No",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "D207695"
+                    },
+                    {
+                        "applId": "04015780",
+                        "assignments": [
+                            {
+                                "reelNumber": "4923",
+                                "frameNumber": "862",
+                                "addressNameText": "INFOSEARCH, INC.",
+                                "addressLineOneText": "500 CENTRAL AVENUE",
+                                "addressLineTwoText": "ALBANY, NEW YORK 12206",
+                                "addressLineThreeText": "null",
+                                "addressLineFourText": "null",
+                                "mailDate": "NONE",
+                                "receivedDate": "",
+                                "recordedDate": "06-09-1988",
+                                "pagesCount": "9",
+                                "converyanceName": "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+                                "sequenceNumber": "33",
+                                "assignors": [
+                                    {
+                                        "assignorName": "EL ACQUISITION CORPORATION",
+                                        "execDate": "10-30-1987"
+                                    }
+                                ],
+                                "assignee": [
+                                    {
+                                        "assigneeName": "FIRST NATIONAL BANK OF BOSTON, THE",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    }
+                                ]
+                            },
+                            {
+                                "reelNumber": "5195",
+                                "frameNumber": "287",
+                                "addressNameText": "SKADDEN, ARPS, SLATE ET. AL.",
+                                "addressLineOneText": "919 THIRD AVENUE",
+                                "addressLineTwoText": "NEW YORK, NY 10022-9931",
+                                "addressLineThreeText": "null",
+                                "addressLineFourText": "null",
+                                "mailDate": "NONE",
+                                "receivedDate": "",
+                                "recordedDate": "11-07-1989",
+                                "pagesCount": "16",
+                                "converyanceName": "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+                                "sequenceNumber": "71",
+                                "assignors": [
+                                    {
+                                        "assignorName": "ELECTROLUX CORPORATION A CORP. OF DE.",
+                                        "execDate": "10-24-1989"
+                                    }
+                                ],
+                                "assignee": [
+                                    {
+                                        "assigneeName": "BANCBOSTON INVESTMENTS INC.,",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    },
+                                    {
+                                        "assigneeName": "WELLS FARGO & CO.",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    },
+                                    {
+                                        "assigneeName": "FIRST BOSTON MEZZANINE INVESTMENT PARTNERSHIP - 9",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    },
+                                    {
+                                        "assigneeName": "WESRAY CAPITAL CORPORATION",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    },
+                                    {
+                                        "assigneeName": "FIRST BOSTON SECURITIES CORP.",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    }
+                                ]
+                            },
+                            {
+                                "reelNumber": "5206",
+                                "frameNumber": "691",
+                                "addressNameText": "SKADDEN, ARPS, SLATE, ETAL",
+                                "addressLineOneText": "919 THIRD AVENUE",
+                                "addressLineTwoText": "NEW YORK, NY 10022-9931",
+                                "addressLineThreeText": "null",
+                                "addressLineFourText": "null",
+                                "mailDate": "NONE",
+                                "receivedDate": "",
+                                "recordedDate": "01-05-1990",
+                                "pagesCount": "18",
+                                "converyanceName": "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+                                "sequenceNumber": "111",
+                                "assignors": [
+                                    {
+                                        "assignorName": "ELECTROLUX CORPORATION",
+                                        "execDate": "10-24-1989"
+                                    }
+                                ],
+                                "assignee": [
+                                    {
+                                        "assigneeName": "BANCBOSTON INVESTMENTS INC.",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    },
+                                    {
+                                        "assigneeName": "WELLS FARGO & CO.",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    },
+                                    {
+                                        "assigneeName": "FIRST BOSTON MEZZANINE INVESTMENT PARTNERSHIP - 9",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    },
+                                    {
+                                        "assigneeName": "WESRAY CAPITAL CORPORATION",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    },
+                                    {
+                                        "assigneeName": "FIRST BOSTON SECURITIES CORP.",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "null",
+                                        "countryCode": "",
+                                        "postalCode": "null"
+                                    }
+                                ]
+                            },
+                            {
+                                "reelNumber": "9773",
+                                "frameNumber": "310",
+                                "addressNameText": "FEDERAL RESEARCH CORP.",
+                                "addressLineOneText": "NANCY A. BUTLER",
+                                "addressLineTwoText": "400 SEVENTH STREET, NW",
+                                "addressLineThreeText": "SUITE 101",
+                                "addressLineFourText": "WASHINGTON, DC  20004",
+                                "mailDate": "05-18-2000",
+                                "receivedDate": "02-24-1999",
+                                "recordedDate": "02-19-1999",
+                                "pagesCount": "13",
+                                "converyanceName": "RELEASE OF SECURITY INTEREST",
+                                "sequenceNumber": "114",
+                                "assignors": [
+                                    {
+                                        "assignorName": "BANCBOSTON INVESTMENTS, INC.",
+                                        "execDate": "08-31-1998"
+                                    },
+                                    {
+                                        "assignorName": "WELLS FARGO & CO.",
+                                        "execDate": "08-31-1998"
+                                    },
+                                    {
+                                        "assignorName": "FIRST BOSTON MEZZANINE INVESTMENT PARTNERSHIP - 9",
+                                        "execDate": "08-31-1998"
+                                    },
+                                    {
+                                        "assignorName": "WESTRAY CAPITAL CORPORATION",
+                                        "execDate": "08-31-1998"
+                                    },
+                                    {
+                                        "assignorName": "FIRST BOSTON SECURITIES CORP.",
+                                        "execDate": "08-31-1998"
+                                    }
+                                ],
+                                "assignee": [
+                                    {
+                                        "assigneeName": "ELECTROLUX CORPORATION",
+                                        "streetLineOneText": "null",
+                                        "streetLineTwoText": "3003 SUMMER STREET",
+                                        "cityName": "STAMFORD",
+                                        "countryCode": "CONNECTICUT",
+                                        "postalCode": "07905"
+                                    }
+                                ]
+                            }
+                        ],
+                        "appFilingDate": "1969-02-14T00:00:00Z",
+                        "publicInd": "Y",
+                        "appLocationDate": "2002-04-11T00:00:00Z",
+                        "APP_IND": "1",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "04015780",
+                        "applIdStr": "04015780",
+                        "appl_id_txt": "04015780",
+                        "appSubCls": "000000",
+                        "patentNumber": "D217285",
+                        "LAST_MOD_TS": "2012-05-01T12:08:29Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2022-11-06T22:59:42Z",
+                        "appCls": "000",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": "TELESCOPING WAND FOR A VACUUM CLEANER ",
+                        "appStatusDate": "1997-06-23T00:00:00Z",
+                        "firstInventorFile": "No",
+                        "appClsSubCls": "000/000000",
+                        "appClsSubClsFacet": "000/000000",
+                        "patentIssueDate": "1970-04-21T00:00:00Z",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "9440",
+                        "lastUpdatedTimestamp": "2022-11-08T01:26:50.191Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1748889329541840899,
+                        "firstInventorFileFacet": "No",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "D217285"
+                    },
+                    {
+                        "applId": "04017226",
+                        "assignments": [
+                            {
+                                "reelNumber": "4349",
+                                "frameNumber": "275",
+                                "addressNameText": "BLACK AND DECKER MFG. COMPANY",
+                                "addressLineOneText": "ATTN: PATENT DEPT.",
+                                "addressLineTwoText": "701 EAST JOPPA ROAD",
+                                "addressLineThreeText": "TOWSON, MD  21204-5552",
+                                "addressLineFourText": "null",
+                                "mailDate": "NONE",
+                                "receivedDate": "",
+                                "recordedDate": "09-27-1984",
+                                "pagesCount": "10",
+                                "converyanceName": "ASSIGNS AS OF APRIL 27, 1984 THE ENTIRE INTEREST",
+                                "sequenceNumber": "194",
+                                "assignors": [
+                                    {
+                                        "assignorName": "GENERAL ELECTRIC COMPANY  A NY CORP.",
+                                        "execDate": "08-24-1984"
+                                    }
+                                ],
+                                "assignee": [
+                                    {
+                                        "assigneeName": "BLACK & DECKER, INC., A CORP. OF DE",
+                                        "streetLineOneText": "1423 KIRKWOOD HIGHWAY",
+                                        "streetLineTwoText": "null",
+                                        "cityName": "NEWARK",
+                                        "countryCode": "DELAWARE",
+                                        "postalCode": "19711"
+                                    }
+                                ]
+                            }
+                        ],
+                        "appFilingDate": "1969-05-19T00:00:00Z",
+                        "publicInd": "Y",
+                        "appLocationDate": "1999-06-10T00:00:00Z",
+                        "APP_IND": "1",
+                        "inventorName": "JOHN C. SHALVOY",
+                        "inventorNameFacet": "JOHN C. SHALVOY",
+                        "appLocation": "FILE REPOSITORY (FRANCONIA)",
+                        "id": "04017226",
+                        "appGrpArtNumber": "2900",
+                        "appGrpArtNumberFacet": "2900",
+                        "applIdStr": "04017226",
+                        "appl_id_txt": "04017226",
+                        "appSubCls": "000000",
+                        "patentNumber": "D218209",
+                        "LAST_MOD_TS": "2024-10-19T14:58:56Z",
+                        "transactions": [
+                            {
+                                "recordDate": "2001-09-20 00:00:00",
+                                "code": "SETS",
+                                "description": "Set Application Status"
+                            }
+                        ],
+                        "LAST_INSERT_TIME": "2024-10-19T23:05:02Z",
+                        "appCls": "D00",
+                        "appStatus": "ABANDONED - RESTORED",
+                        "appStatusFacet": "ABANDONED - RESTORED",
+                        "appStatus_txt": "ABANDONED - RESTORED",
+                        "patentTitle": "ELECTRIC TOASTER OR SIMILAR ARTICLE ",
+                        "appStatusDate": "1985-06-13T00:00:00Z",
+                        "inventors": [
+                            {
+                                "nameLineOne": "SHALVOY",
+                                "nameLineTwo": "JOHN C.",
+                                "suffix": "",
+                                "streetOne": "",
+                                "streetTwo": "",
+                                "city": "FAIRFIELD, ",
+                                "geoCode": "CT",
+                                "country": "(US)",
+                                "rankNo": "1"
+                            }
+                        ],
+                        "inventorsFacet": "{JOHN|C.|SHALVOY||||FAIRFIELD|CT|US|IND|1}",
+                        "firstInventorFile": "No",
+                        "appType": "Design",
+                        "appTypeFacet": "Design",
+                        "appClsSubCls": "D00/000000",
+                        "appClsSubClsFacet": "D00/000000",
+                        "patentIssueDate": "1970-07-28T00:00:00Z",
+                        "appEntityStatus": "UNDISCOUNTED",
+                        "appConfrNumber": "9470",
+                        "lastUpdatedTimestamp": "2024-10-20T22:15:25.693Z",
+                        "appEntityStatusFacet": "UNDISCOUNTED",
+                        "_version_": 1813474416271556608,
+                        "firstInventorFileFacet": "No",
+                        "appLocationFacet": "FILE REPOSITORY (FRANCONIA)",
+                        "patentNumberFacet": "D218209"
+                    }
+                ]
+            },
+            "facet_counts": {
+                "facet_queries": {},
+                "facet_fields": {
+                    "appClsSubClsFacet": [
+                        "435/006000",
+                        20215,
+                        "370/329000",
+                        17326,
+                        "435/069100",
+                        11725,
+                        "705/002000",
+                        10796,
+                        "345/173000",
+                        10072,
+                        "514/183000",
+                        8614,
+                        "001/PCT007",
+                        8563,
+                        "358/001150",
+                        8482,
+                        "709/206000",
+                        8481,
+                        "435/007100",
+                        7691,
+                        "709/224000",
+                        7510,
+                        "001/PCT008",
+                        7202,
+                        "424/133100",
+                        7181,
+                        "424/401000",
+                        7139,
+                        "702/019000",
+                        6239,
+                        "705/037000",
+                        6191,
+                        "370/252000",
+                        6131,
+                        "514/044000",
+                        6073,
+                        "705/003000",
+                        5786,
+                        "345/156000",
+                        5748,
+                        null,
+                        22841
+                    ],
+                    "appGrpArtNumberFacet": [
+                        "2875",
+                        32055,
+                        "3711",
+                        30795,
+                        "2872",
+                        28658,
+                        "3723",
+                        26751,
+                        "2834",
+                        26331,
+                        "3747",
+                        24658,
+                        "3732",
+                        22925,
+                        "2617",
+                        22646,
+                        "3753",
+                        22396,
+                        "3763",
+                        22244,
+                        "3744",
+                        22074,
+                        "2853",
+                        21979,
+                        "2837",
+                        21842,
+                        "2855",
+                        21438,
+                        "2627",
+                        20821,
+                        "2852",
+                        20783,
+                        "3746",
+                        20503,
+                        "1624",
+                        20499,
+                        "2835",
+                        20161,
+                        "3745",
+                        20144,
+                        null,
+                        24059
+                    ],
+                    "appAttrDockNumberFacet": [
+                        "MEMJ-313617-2001",
+                        1667,
+                        "NONE",
+                        1255,
+                        "1",
+                        804,
+                        "VII",
+                        528,
+                        "V",
+                        527,
+                        "IV",
+                        521,
+                        "XI",
+                        494,
+                        "2",
+                        435,
+                        "JEK",
+                        413,
+                        "X",
+                        288,
+                        "3",
+                        277,
+                        "037834.01251",
+                        270,
+                        "PATRADE",
+                        263,
+                        "EM/AG",
+                        231,
+                        "II",
+                        215,
+                        "4",
+                        194,
+                        "P-301",
+                        183,
+                        "5",
+                        153,
+                        "CASE 1",
+                        150,
+                        "1101310",
+                        144,
+                        null,
+                        250845
+                    ],
+                    "appCustNumberFacet": [
+                        "22850",
+                        88068,
+                        "23373",
+                        50702,
+                        "25944",
+                        41012,
+                        "2292",
+                        31964,
+                        "5514",
+                        31306,
+                        "20995",
+                        28575,
+                        "54000",
+                        25197,
+                        "21171",
+                        25030,
+                        "22852",
+                        23308,
+                        "24737",
+                        23076,
+                        "23117",
+                        22546,
+                        "21839",
+                        22231,
+                        "909",
+                        21826,
+                        "466",
+                        20921,
+                        "20350",
+                        20798,
+                        "22428",
+                        20772,
+                        "20457",
+                        19582,
+                        "22879",
+                        17202,
+                        "20277",
+                        17143,
+                        "27572",
+                        16818,
+                        null,
+                        1647425
+                    ],
+                    "appExamNameFacet": [
+                        "NOT, DEFINED",
+                        136097,
+                        "YOUNG, LEE W",
+                        10497,
+                        "TEST_NO, TEST_NO",
+                        7979,
+                        "THOMAS, SHANE M",
+                        7907,
+                        "COPENHEAVER, BLAINE R",
+                        6276,
+                        "RODRIQUEZ, KARI KRISTIN",
+                        4660,
+                        "PAUMEN, GARY F",
+                        3842,
+                        "AVILA, STEPHEN P",
+                        3250,
+                        "PEDDER, DENNIS H",
+                        3208,
+                        "RAEVIS, ROBERT R",
+                        3174,
+                        "WATSON, ROBERT C",
+                        3023,
+                        "SIMONE, TIMOTHY F",
+                        2974,
+                        "NGUYEN, HOANG M",
+                        2927,
+                        "GEHMAN, BRYON P",
+                        2916,
+                        "CHIN-SHUE, ALVIN CONSTANTINE",
+                        2825,
+                        "RAMIREZ, RAMON O",
+                        2788,
+                        "ELKINS, GARY E",
+                        2787,
+                        "WALCZAK, DAVID J",
+                        2770,
+                        "WEAVER, SUE A",
+                        2713,
+                        "GALL, LLOYD A",
+                        2705,
+                        null,
+                        49672
+                    ],
+                    "applicantsFacet": [
+                        "{||International Business Machines Corporation||||Armonk|NY||ORG|1}",
+                        9459,
+                        "{||International Business Machines Corporation||||Armonk|NY|US|ORG|1}",
+                        8047,
+                        "{||CANON KABUSHIKI KAISHA||||Tokyo||JP|ORG|1}",
+                        5996,
+                        "{||FUJITSU LIMITED||||Kawasaki-shi||JP|ORG|1}",
+                        5056,
+                        "{||Samsung Electronics Co., Ltd.||||Suwon-si||KR|ORG|1}",
+                        4291,
+                        "{||SAMSUNG ELECTRONICS CO., LTD.||||Suwon-si||KR|ORG|1}",
+                        4035,
+                        "{||TOYOTA JIDOSHA KABUSHIKI KAISHA||||Toyota-shi||JP|ORG|1}",
+                        3489,
+                        "{||QUALCOMM Incorporated||||San Diego|CA|US|ORG|1}",
+                        3401,
+                        "{||Intel Corporation||||Santa Clara|CA||ORG|1}",
+                        3397,
+                        "{||QUALCOMM Incorporated||||San Diego|CA||ORG|1}",
+                        3376,
+                        "{||Intel Corporation||||Santa Clara|CA|US|ORG|1}",
+                        2626,
+                        "{||Huawei Technologies Co., Ltd.||||Shenzhen||CN|ORG|1}",
+                        2596,
+                        "{||INTERNATIONAL BUSINESS MACHINES CORPORATION||||Armonk|NY||ORG|1}",
+                        2242,
+                        "{||LG ELECTRONICS INC.||||Seoul||KR|ORG|1}",
+                        2155,
+                        "{||FUJIFILM Corporation||||Tokyo||JP|ORG|1}",
+                        2073,
+                        "{||INTERNATIONAL BUSINESS MACHINES CORPORATION||||Armonk|NY|US|ORG|1}",
+                        2057,
+                        "{||International Business Machines Corporation||||Armonk|NY||ORG|0}",
+                        1969,
+                        "{||Microsoft Technology Licensing, LLC||||Redmond|WA||ORG|1}",
+                        1948,
+                        "{||Panasonic Intellectual Property Management Co., Lt||||Osaka||JP|ORG|1}",
+                        1905,
+                        "{||Microsoft Technology Licensing, LLC||||Redmond|WA|US|ORG|1}",
+                        1902,
+                        null,
+                        4314541
+                    ],
+                    "inventorsFacet": [
+                        "{Kia||Silverbrook||||Balmain||AU|IND|1}",
+                        1862,
+                        "{Donald|E.|Weder||||Highland|IL|US|IND|1}",
+                        624,
+                        "{Kevin|P.|Baker||||Darnestown|MD|US|IND|1},{Jian||Chen||||Princeton|NJ|US|IND|2},{Luc||Desnoyers||||San Francisco|CA|US|IND|3},{Audrey||Goddard||||San Francisco|CA|US|IND|4},{Paul|J.|Godowski||||Hillsborough|CA|US|IND|5},{Austin|L.|Gurney||||Belmont|CA|US|IND|6},{James||Pan||||Belmont|CA|US|IND|7},{Victoria||Smith||||Burlingame|CA|US|IND|8},{Colin|K.|Watanabe||||Moraga|CA|US|IND|9},{William|I.|Wood||||Hillsborough|CA|US|IND|10},{Zemin||Zhang||||Foster City|CA|US|IND|11}",
+                        377,
+                        "{DONALD|E.|WEDER||||HIGHLAND|IL|US|IND|1}",
+                        327,
+                        "{George||Liang||||Palm City|FL|US|IND|1}",
+                        299,
+                        "{Donald|E.|Weder||||Highland|IL||IND|1}",
+                        294,
+                        "{Kia||Silverbrook||||Balmain||AU|IND|1},{Paul||Lapstun||||Balmain||AU|IND|2}",
+                        273,
+                        "{Paul||Lapstun||||Balmain||AU|IND|1},{Kia||Silverbrook||||Balmain||AU|IND|2}",
+                        270,
+                        "{Anthony|W.|Czarnik||||Reno|NV|US|IND|1}",
+                        256,
+                        "{SHUNPEI||YAMAZAKI||||TOKYO||JP|IND|1}",
+                        254,
+                        "{OLE|K.|NILSSEN||||BARRINGTON|IL|US|IND|1}",
+                        243,
+                        "{Kevin|P.|Baker||||Darnestown|MD|US|IND|1},{Maureen||Beresini||||Moss Beach|CA|US|IND|2},{Laura||DeForge||||Pacifica|CA|US|IND|3},{Luc||Desnoyers||||San Francisco|CA|US|IND|4},{Ellen||Filvaroff||||San Francisco|CA|US|IND|5},{Wei-Qiang||Gao||||Palo Alto|CA|US|IND|6},{Mary|E.|Gerritsen||||San Mateo|CA|US|IND|7},{Audrey||Goddard||||San Francisco|CA|US|IND|8},{Paul|J.|Godowski||||Hillsborough|CA|US|IND|9},{Austin|L.|Gurney||||Belmont|CA|US|IND|10},{Steven||Sherwood||||Los Altos|CA|US|IND|11},{Victoria||Smith||||Burlingame|CA|US|IND|12},{Timothy|A.|Stewart||||San Francisco|CA|US|IND|13},{Daniel||Tumas||||Orinda|CA|US|IND|14},{Colin|K.|Watanabe||||Moraga|CA|US|IND|15},{William|I.|Wood||||Hillsborough|CA|US|IND|16},{Zemin||Zhang||||Foster City|CA|US|IND|17}",
+                        233,
+                        "{Ezekiel||Kruglick||||Poway|CA|US|IND|1}",
+                        225,
+                        "{Kazuo||Okada||||Tokyo||JP|IND|1}",
+                        222,
+                        "{Lee|D.|Whetsel||||Parker|TX|US|IND|1}",
+                        210,
+                        "{Kia||Silverbrook||||Balmain||AU|IND|1},{Tobin|Allen|King||||Balmain||AU|IND|2}",
+                        208,
+                        "{Scott|C.|Harris||||Rancho Santa Fe|CA|US|IND|1}",
+                        199,
+                        "{Iwao||Fujisaki||||Tokyo||JP|IND|1}",
+                        181,
+                        "{INBAE||YOON||||PHOENIX|MD|US|IND|1}",
+                        179,
+                        "{ZHENG-HENG||SUN||||Tu-Cheng||TW|IND|1}",
+                        173,
+                        null,
+                        235166
+                    ],
+                    "inventorNameFacet": [
+                        "KIA SILVERBROOK",
+                        3513,
+                        "SHUNPEI YAMAZAKI",
+                        2730,
+                        "DONALD E. WEDER",
+                        1704,
+                        "KEVIN P. BAKER",
+                        955,
+                        "RODERICK A. HYDE",
+                        913,
+                        "JAY S. WALKER",
+                        746,
+                        "PAUL LAPSTUN",
+                        645,
+                        "DAVID R. HALL",
+                        611,
+                        "EDWARD K.Y. JUNG",
+                        594,
+                        "KANGGUO CHENG",
+                        576,
+                        "HIDEO ANDO",
+                        384,
+                        "TETSUJIRO KONDO",
+                        368,
+                        "MICHAEL J. SULLIVAN",
+                        337,
+                        "GEORGE LIANG",
+                        334,
+                        "DAVID S. BREED",
+                        325,
+                        "JEYHAN KARAOGUZ",
+                        317,
+                        "JAMES D. BENNETT",
+                        311
+                    ],
+                    "appTypeFacet": [
+                        "Utility",
+                        5400632,
+                        "PCT",
+                        176470,
+                        "Design",
+                        15993,
+                        "Re-Issue",
+                        12493,
+                        "Provisional",
+                        3093,
+                        "Re-Examination",
+                        1207,
+                        "Plant",
+                        987,
+                        null,
+                        1411
+                    ],
+                    "firstNamedApplicantFacet": [
+                        "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+                        32713,
+                        "SAMSUNG ELECTRONICS CO., LTD.",
+                        16730,
+                        "CANON KABUSHIKI KAISHA",
+                        10403,
+                        "QUALCOMM INCORPORATED",
+                        9042,
+                        "FUJITSU LIMITED",
+                        7450,
+                        "INTEL CORPORATION",
+                        7206,
+                        "TOYOTA JIDOSHA KABUSHIKI KAISHA",
+                        5185,
+                        "LG ELECTRONICS INC.",
+                        4995,
+                        "MICROSOFT TECHNOLOGY LICENSING, LLC",
+                        4685,
+                        "APPLE INC.",
+                        4629,
+                        "KABUSHIKI KAISHA TOSHIBA",
+                        4528,
+                        "HUAWEI TECHNOLOGIES CO., LTD.",
+                        3580,
+                        "GENERAL ELECTRIC COMPANY",
+                        3514,
+                        "GM GLOBAL TECHNOLOGY OPERATIONS LLC",
+                        3221,
+                        "3M INNOVATIVE PROPERTIES COMPANY",
+                        3194,
+                        "HON HAI PRECISION INDUSTRY CO., LTD.",
+                        3167,
+                        "FORD GLOBAL TECHNOLOGIES, LLC",
+                        3101,
+                        "KONINKLIJKE PHILIPS N.V.",
+                        3092
+                    ],
+                    "appStatusFacet": [
+                        "Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362",
+                        2715588,
+                        "Abandoned  --  Failure to Respond to an Office Action",
+                        1996193,
+                        "PCT - International Search Report Mailed to IB",
+                        174898,
+                        "Abandoned  --  File-Wrapper-Continuation Parent Application",
+                        159385,
+                        "Non Final Action Mailed",
+                        144677,
+                        "Abandoned  --  Failure to Pay Issue Fee",
+                        90600,
+                        "Notice of Allowance Mailed -- Application Received in Office of Publications",
+                        65226,
+                        "Abandoned  --  After Examiner's Answer or Board of Appeals Decision",
+                        62206,
+                        "Expressly Abandoned  --  During Examination",
+                        60480,
+                        "Response to Non-Final Office Action Entered and Forwarded to Examiner",
+                        56262,
+                        "Abandoned  --  Incomplete Application (Pre-examination)",
+                        33664,
+                        "Patented Case",
+                        15000,
+                        "Advisory Action Mailed",
+                        6964,
+                        "ABANDONED - RESTORED",
+                        5737,
+                        "Sent to Classification contractor",
+                        4255,
+                        "Expressly Abandoned  --  During Publication Process",
+                        3594,
+                        "Response after Final Action Forwarded to Examiner",
+                        3132,
+                        "Abandoned  --  Incomplete (Filing Date Under Rule 53 (b) - PreExam)",
+                        2763,
+                        "Abandonment for Failure to Correct Drawings/Oath/NonPub Request",
+                        1991,
+                        "Appeal Brief (or Supplemental Brief) Entered and Forwarded to Examiner",
+                        1293,
+                        null,
+                        133
+                    ],
+                    "appEntityStatusFacet": [
+                        "UNDISCOUNTED",
+                        3880072,
+                        "SMALL",
+                        1635998,
+                        "MICRO",
+                        96208,
+                        " ",
+                        8,
+                        null,
+                        0
+                    ],
+                    "inventorsFullNameFacet": [
+                        "OLE K. NILSSEN",
+                        209,
+                        "SHUNPEI  YAMAZAKI",
+                        189,
+                        "TAI-HER  YANG",
+                        187,
+                        "KEI  MORI",
+                        157,
+                        "INBAE  YOON",
+                        127,
+                        "DONALD E. WEDER",
+                        118,
+                        "HIDEO  KAWAMURA",
+                        117,
+                        "HYOK S. LEW",
+                        110,
+                        "LLOYD  BERG",
+                        105,
+                        "DONALD  SPECTOR",
+                        82,
+                        "ROBERT E. HEFNER",
+                        82,
+                        "KARL  HEHL",
+                        81,
+                        "FRITZ  STAHLECKER",
+                        81,
+                        "PETER  ACKERET",
+                        75,
+                        "DONALD D. BARTHOLOMEW",
+                        74,
+                        "TERRY M. HABER",
+                        72,
+                        "KENZOU  KASSAI",
+                        71,
+                        "MOHSEN N. HARANDI",
+                        71,
+                        "ARTUR  FOHL",
+                        68,
+                        "MASASHI  NAGANO",
+                        68
+                    ],
+                    "appStatus": [
+                        "Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362",
+                        2715588,
+                        "Abandoned  --  Failure to Respond to an Office Action",
+                        1996193,
+                        "PCT - International Search Report Mailed to IB",
+                        174898,
+                        "Abandoned  --  File-Wrapper-Continuation Parent Application",
+                        159385,
+                        "Non Final Action Mailed",
+                        144677,
+                        "Abandoned  --  Failure to Pay Issue Fee",
+                        90600,
+                        "Notice of Allowance Mailed -- Application Received in Office of Publications",
+                        65226,
+                        "Abandoned  --  After Examiner's Answer or Board of Appeals Decision",
+                        62206,
+                        "Expressly Abandoned  --  During Examination",
+                        60480,
+                        "Response to Non-Final Office Action Entered and Forwarded to Examiner",
+                        56262,
+                        "Abandoned  --  Incomplete Application (Pre-examination)",
+                        33664,
+                        "Patented Case",
+                        15000,
+                        "Advisory Action Mailed",
+                        6964,
+                        "ABANDONED - RESTORED",
+                        5737,
+                        "Sent to Classification contractor",
+                        4255,
+                        "Expressly Abandoned  --  During Publication Process",
+                        3594,
+                        "Response after Final Action Forwarded to Examiner",
+                        3132,
+                        "Abandoned  --  Incomplete (Filing Date Under Rule 53 (b) - PreExam)",
+                        2763,
+                        "Abandonment for Failure to Correct Drawings/Oath/NonPub Request",
+                        1991,
+                        "Appeal Brief (or Supplemental Brief) Entered and Forwarded to Examiner",
+                        1293,
+                        null,
+                        133
+                    ]
+                },
+                "facet_ranges": {
+                    "patentIssueDate": {
+                        "counts": [
+                            "1975-01-01T00:00:00Z",
+                            52,
+                            "1976-01-01T00:00:00Z",
+                            50,
+                            "1977-01-01T00:00:00Z",
+                            49,
+                            "1978-01-01T00:00:00Z",
+                            56,
+                            "1979-01-01T00:00:00Z",
+                            15,
+                            "1980-01-01T00:00:00Z",
+                            23,
+                            "1981-01-01T00:00:00Z",
+                            153,
+                            "1982-01-01T00:00:00Z",
+                            7907,
+                            "1983-01-01T00:00:00Z",
+                            27735,
+                            "1984-01-01T00:00:00Z",
+                            40786,
+                            "1985-01-01T00:00:00Z",
+                            44583,
+                            "1986-01-01T00:00:00Z",
+                            43921,
+                            "1987-01-01T00:00:00Z",
+                            50881,
+                            "1988-01-01T00:00:00Z",
+                            47086,
+                            "1989-01-01T00:00:00Z",
+                            55971,
+                            "1990-01-01T00:00:00Z",
+                            53036,
+                            "1991-01-01T00:00:00Z",
+                            56702,
+                            "1992-01-01T00:00:00Z",
+                            55544,
+                            "1993-01-01T00:00:00Z",
+                            54862,
+                            "1994-01-01T00:00:00Z",
+                            55447,
+                            "1995-01-01T00:00:00Z",
+                            54001,
+                            "1996-01-01T00:00:00Z",
+                            56124,
+                            "1997-01-01T00:00:00Z",
+                            57715,
+                            "1998-01-01T00:00:00Z",
+                            76881,
+                            "1999-01-01T00:00:00Z",
+                            77107,
+                            "2000-01-01T00:00:00Z",
+                            76826,
+                            "2001-01-01T00:00:00Z",
+                            82324,
+                            "2002-01-01T00:00:00Z",
+                            87453,
+                            "2003-01-01T00:00:00Z",
+                            87660,
+                            "2004-01-01T00:00:00Z",
+                            86180,
+                            "2005-01-01T00:00:00Z",
+                            77505,
+                            "2006-01-01T00:00:00Z",
+                            96972,
+                            "2007-01-01T00:00:00Z",
+                            87545,
+                            "2008-01-01T00:00:00Z",
+                            90241,
+                            "2009-01-01T00:00:00Z",
+                            97152,
+                            "2010-01-01T00:00:00Z",
+                            125067,
+                            "2011-01-01T00:00:00Z",
+                            129579,
+                            "2012-01-01T00:00:00Z",
+                            130357,
+                            "2013-01-01T00:00:00Z",
+                            99425,
+                            "2014-01-01T00:00:00Z",
+                            103469,
+                            "2015-01-01T00:00:00Z",
+                            100694,
+                            "2016-01-01T00:00:00Z",
+                            84915,
+                            "2017-01-01T00:00:00Z",
+                            45879,
+                            "2018-01-01T00:00:00Z",
+                            41159,
+                            "2019-01-01T00:00:00Z",
+                            46270,
+                            "2020-01-01T00:00:00Z",
+                            33896,
+                            "2021-01-01T00:00:00Z",
+                            1028,
+                            "2022-01-01T00:00:00Z",
+                            1119,
+                            "2023-01-01T00:00:00Z",
+                            1075,
+                            "2024-01-01T00:00:00Z",
+                            821
+                        ],
+                        "gap": "+1YEAR",
+                        "before": 340,
+                        "start": "1975-01-01T00:00:00Z",
+                        "end": "2025-01-01T00:00:00Z"
+                    },
+                    "appEarlyPubDate": {
+                        "counts": [
+                            "1975-01-01T00:00:00Z",
+                            0,
+                            "1976-01-01T00:00:00Z",
+                            0,
+                            "1977-01-01T00:00:00Z",
+                            0,
+                            "1978-01-01T00:00:00Z",
+                            0,
+                            "1979-01-01T00:00:00Z",
+                            0,
+                            "1980-01-01T00:00:00Z",
+                            0,
+                            "1981-01-01T00:00:00Z",
+                            0,
+                            "1982-01-01T00:00:00Z",
+                            0,
+                            "1983-01-01T00:00:00Z",
+                            0,
+                            "1984-01-01T00:00:00Z",
+                            0,
+                            "1985-01-01T00:00:00Z",
+                            0,
+                            "1986-01-01T00:00:00Z",
+                            0,
+                            "1987-01-01T00:00:00Z",
+                            0,
+                            "1988-01-01T00:00:00Z",
+                            0,
+                            "1989-01-01T00:00:00Z",
+                            0,
+                            "1990-01-01T00:00:00Z",
+                            0,
+                            "1991-01-01T00:00:00Z",
+                            0,
+                            "1992-01-01T00:00:00Z",
+                            0,
+                            "1993-01-01T00:00:00Z",
+                            0,
+                            "1994-01-01T00:00:00Z",
+                            0,
+                            "1995-01-01T00:00:00Z",
+                            0,
+                            "1996-01-01T00:00:00Z",
+                            0,
+                            "1997-01-01T00:00:00Z",
+                            0,
+                            "1998-01-01T00:00:00Z",
+                            0,
+                            "1999-01-01T00:00:00Z",
+                            0,
+                            "2000-01-01T00:00:00Z",
+                            0,
+                            "2001-01-01T00:00:00Z",
+                            36484,
+                            "2002-01-01T00:00:00Z",
+                            131405,
+                            "2003-01-01T00:00:00Z",
+                            159930,
+                            "2004-01-01T00:00:00Z",
+                            187679,
+                            "2005-01-01T00:00:00Z",
+                            207605,
+                            "2006-01-01T00:00:00Z",
+                            214896,
+                            "2007-01-01T00:00:00Z",
+                            218353,
+                            "2008-01-01T00:00:00Z",
+                            228943,
+                            "2009-01-01T00:00:00Z",
+                            226270,
+                            "2010-01-01T00:00:00Z",
+                            212174,
+                            "2011-01-01T00:00:00Z",
+                            188213,
+                            "2012-01-01T00:00:00Z",
+                            181118,
+                            "2013-01-01T00:00:00Z",
+                            179633,
+                            "2014-01-01T00:00:00Z",
+                            183583,
+                            "2015-01-01T00:00:00Z",
+                            162992,
+                            "2016-01-01T00:00:00Z",
+                            136766,
+                            "2017-01-01T00:00:00Z",
+                            122886,
+                            "2018-01-01T00:00:00Z",
+                            112816,
+                            "2019-01-01T00:00:00Z",
+                            100145,
+                            "2020-01-01T00:00:00Z",
+                            85652,
+                            "2021-01-01T00:00:00Z",
+                            96563,
+                            "2022-01-01T00:00:00Z",
+                            129513,
+                            "2023-01-01T00:00:00Z",
+                            108502,
+                            "2024-01-01T00:00:00Z",
+                            63810
+                        ],
+                        "gap": "+1YEAR",
+                        "before": 0,
+                        "start": "1975-01-01T00:00:00Z",
+                        "end": "2025-01-01T00:00:00Z"
+                    },
+                    "wipoEarlyPubDate": {
+                        "counts": [
+                            "1975-01-01T00:00:00Z",
+                            0,
+                            "1976-01-01T00:00:00Z",
+                            0,
+                            "1977-01-01T00:00:00Z",
+                            0,
+                            "1978-01-01T00:00:00Z",
+                            0,
+                            "1979-01-01T00:00:00Z",
+                            0,
+                            "1980-01-01T00:00:00Z",
+                            0,
+                            "1981-01-01T00:00:00Z",
+                            0,
+                            "1982-01-01T00:00:00Z",
+                            0,
+                            "1983-01-01T00:00:00Z",
+                            0,
+                            "1984-01-01T00:00:00Z",
+                            0,
+                            "1985-01-01T00:00:00Z",
+                            0,
+                            "1986-01-01T00:00:00Z",
+                            0,
+                            "1987-01-01T00:00:00Z",
+                            0,
+                            "1988-01-01T00:00:00Z",
+                            0,
+                            "1989-01-01T00:00:00Z",
+                            0,
+                            "1990-01-01T00:00:00Z",
+                            0,
+                            "1991-01-01T00:00:00Z",
+                            0,
+                            "1992-01-01T00:00:00Z",
+                            0,
+                            "1993-01-01T00:00:00Z",
+                            0,
+                            "1994-01-01T00:00:00Z",
+                            0,
+                            "1995-01-01T00:00:00Z",
+                            7279,
+                            "1996-01-01T00:00:00Z",
+                            9221,
+                            "1997-01-01T00:00:00Z",
+                            10188,
+                            "1998-01-01T00:00:00Z",
+                            11424,
+                            "1999-01-01T00:00:00Z",
+                            12449,
+                            "2000-01-01T00:00:00Z",
+                            13822,
+                            "2001-01-01T00:00:00Z",
+                            10703,
+                            "2002-01-01T00:00:00Z",
+                            16552,
+                            "2003-01-01T00:00:00Z",
+                            15630,
+                            "2004-01-01T00:00:00Z",
+                            9473,
+                            "2005-01-01T00:00:00Z",
+                            5029,
+                            "2006-01-01T00:00:00Z",
+                            3667,
+                            "2007-01-01T00:00:00Z",
+                            3251,
+                            "2008-01-01T00:00:00Z",
+                            2475,
+                            "2009-01-01T00:00:00Z",
+                            1567,
+                            "2010-01-01T00:00:00Z",
+                            1252,
+                            "2011-01-01T00:00:00Z",
+                            1238,
+                            "2012-01-01T00:00:00Z",
+                            1135,
+                            "2013-01-01T00:00:00Z",
+                            998,
+                            "2014-01-01T00:00:00Z",
+                            1111,
+                            "2015-01-01T00:00:00Z",
+                            923,
+                            "2016-01-01T00:00:00Z",
+                            863,
+                            "2017-01-01T00:00:00Z",
+                            3721,
+                            "2018-01-01T00:00:00Z",
+                            6561,
+                            "2019-01-01T00:00:00Z",
+                            5825,
+                            "2020-01-01T00:00:00Z",
+                            5023,
+                            "2021-01-01T00:00:00Z",
+                            4454,
+                            "2022-01-01T00:00:00Z",
+                            4037,
+                            "2023-01-01T00:00:00Z",
+                            4967,
+                            "2024-01-01T00:00:00Z",
+                            1185
+                        ],
+                        "gap": "+1YEAR",
+                        "before": 155,
+                        "start": "1975-01-01T00:00:00Z",
+                        "end": "2025-01-01T00:00:00Z"
+                    },
+                    "appIntlPubDate": {
+                        "counts": [
+                            "1975-01-01T00:00:00Z",
+                            0,
+                            "1976-01-01T00:00:00Z",
+                            0,
+                            "1977-01-01T00:00:00Z",
+                            0,
+                            "1978-01-01T00:00:00Z",
+                            0,
+                            "1979-01-01T00:00:00Z",
+                            0,
+                            "1980-01-01T00:00:00Z",
+                            0,
+                            "1981-01-01T00:00:00Z",
+                            0,
+                            "1982-01-01T00:00:00Z",
+                            0,
+                            "1983-01-01T00:00:00Z",
+                            0,
+                            "1984-01-01T00:00:00Z",
+                            0,
+                            "1985-01-01T00:00:00Z",
+                            0,
+                            "1986-01-01T00:00:00Z",
+                            0,
+                            "1987-01-01T00:00:00Z",
+                            0,
+                            "1988-01-01T00:00:00Z",
+                            0,
+                            "1989-01-01T00:00:00Z",
+                            0,
+                            "1990-01-01T00:00:00Z",
+                            0,
+                            "1991-01-01T00:00:00Z",
+                            0,
+                            "1992-01-01T00:00:00Z",
+                            0,
+                            "1993-01-01T00:00:00Z",
+                            0,
+                            "1994-01-01T00:00:00Z",
+                            0,
+                            "1995-01-01T00:00:00Z",
+                            0,
+                            "1996-01-01T00:00:00Z",
+                            0,
+                            "1997-01-01T00:00:00Z",
+                            0,
+                            "1998-01-01T00:00:00Z",
+                            0,
+                            "1999-01-01T00:00:00Z",
+                            0,
+                            "2000-01-01T00:00:00Z",
+                            0,
+                            "2001-01-01T00:00:00Z",
+                            0,
+                            "2002-01-01T00:00:00Z",
+                            0,
+                            "2003-01-01T00:00:00Z",
+                            0,
+                            "2004-01-01T00:00:00Z",
+                            0,
+                            "2005-01-01T00:00:00Z",
+                            0,
+                            "2006-01-01T00:00:00Z",
+                            0,
+                            "2007-01-01T00:00:00Z",
+                            0,
+                            "2008-01-01T00:00:00Z",
+                            0,
+                            "2009-01-01T00:00:00Z",
+                            0,
+                            "2010-01-01T00:00:00Z",
+                            0,
+                            "2011-01-01T00:00:00Z",
+                            0,
+                            "2012-01-01T00:00:00Z",
+                            0,
+                            "2013-01-01T00:00:00Z",
+                            0,
+                            "2014-01-01T00:00:00Z",
+                            0,
+                            "2015-01-01T00:00:00Z",
+                            170,
+                            "2016-01-01T00:00:00Z",
+                            541,
+                            "2017-01-01T00:00:00Z",
+                            494,
+                            "2018-01-01T00:00:00Z",
+                            513,
+                            "2019-01-01T00:00:00Z",
+                            409,
+                            "2020-01-01T00:00:00Z",
+                            654,
+                            "2021-01-01T00:00:00Z",
+                            585,
+                            "2022-01-01T00:00:00Z",
+                            717,
+                            "2023-01-01T00:00:00Z",
+                            1920,
+                            "2024-01-01T00:00:00Z",
+                            446
+                        ],
+                        "gap": "+1YEAR",
+                        "before": 0,
+                        "start": "1975-01-01T00:00:00Z",
+                        "end": "2025-01-01T00:00:00Z"
+                    },
+                    "appFilingDate": {
+                        "counts": [
+                            "1975-01-01T00:00:00Z",
+                            42,
+                            "1976-01-01T00:00:00Z",
+                            53,
+                            "1977-01-01T00:00:00Z",
+                            43,
+                            "1978-01-01T00:00:00Z",
+                            53,
+                            "1979-01-01T00:00:00Z",
+                            96,
+                            "1980-01-01T00:00:00Z",
+                            6944,
+                            "1981-01-01T00:00:00Z",
+                            49121,
+                            "1982-01-01T00:00:00Z",
+                            50297,
+                            "1983-01-01T00:00:00Z",
+                            48580,
+                            "1984-01-01T00:00:00Z",
+                            53121,
+                            "1985-01-01T00:00:00Z",
+                            56950,
+                            "1986-01-01T00:00:00Z",
+                            59911,
+                            "1987-01-01T00:00:00Z",
+                            63343,
+                            "1988-01-01T00:00:00Z",
+                            68931,
+                            "1989-01-01T00:00:00Z",
+                            74628,
+                            "1990-01-01T00:00:00Z",
+                            78288,
+                            "1991-01-01T00:00:00Z",
+                            79106,
+                            "1992-01-01T00:00:00Z",
+                            82128,
+                            "1993-01-01T00:00:00Z",
+                            74354,
+                            "1994-01-01T00:00:00Z",
+                            94701,
+                            "1995-01-01T00:00:00Z",
+                            104014,
+                            "1996-01-01T00:00:00Z",
+                            98785,
+                            "1997-01-01T00:00:00Z",
+                            107717,
+                            "1998-01-01T00:00:00Z",
+                            110070,
+                            "1999-01-01T00:00:00Z",
+                            122464,
+                            "2000-01-01T00:00:00Z",
+                            140481,
+                            "2001-01-01T00:00:00Z",
+                            190562,
+                            "2002-01-01T00:00:00Z",
+                            200797,
+                            "2003-01-01T00:00:00Z",
+                            205498,
+                            "2004-01-01T00:00:00Z",
+                            216170,
+                            "2005-01-01T00:00:00Z",
+                            229772,
+                            "2006-01-01T00:00:00Z",
+                            238750,
+                            "2007-01-01T00:00:00Z",
+                            241588,
+                            "2008-01-01T00:00:00Z",
+                            228714,
+                            "2009-01-01T00:00:00Z",
+                            197218,
+                            "2010-01-01T00:00:00Z",
+                            193277,
+                            "2011-01-01T00:00:00Z",
+                            191345,
+                            "2012-01-01T00:00:00Z",
+                            191169,
+                            "2013-01-01T00:00:00Z",
+                            190511,
+                            "2014-01-01T00:00:00Z",
+                            176666,
+                            "2015-01-01T00:00:00Z",
+                            149733,
+                            "2016-01-01T00:00:00Z",
+                            132988,
+                            "2017-01-01T00:00:00Z",
+                            131115,
+                            "2018-01-01T00:00:00Z",
+                            115493,
+                            "2019-01-01T00:00:00Z",
+                            98434,
+                            "2020-01-01T00:00:00Z",
+                            92256,
+                            "2021-01-01T00:00:00Z",
+                            130469,
+                            "2022-01-01T00:00:00Z",
+                            131361,
+                            "2023-01-01T00:00:00Z",
+                            77144,
+                            "2024-01-01T00:00:00Z",
+                            17815
+                        ],
+                        "gap": "+1YEAR",
+                        "before": 388,
+                        "start": "1975-01-01T00:00:00Z",
+                        "end": "2025-01-01T00:00:00Z"
+                    },
+                    "appStatusDate": {
+                        "counts": [
+                            "1975-01-01T00:00:00Z",
+                            1,
+                            "1976-01-01T00:00:00Z",
+                            1,
+                            "1977-01-01T00:00:00Z",
+                            1,
+                            "1978-01-01T00:00:00Z",
+                            3,
+                            "1979-01-01T00:00:00Z",
+                            6,
+                            "1980-01-01T00:00:00Z",
+                            43,
+                            "1981-01-01T00:00:00Z",
+                            430,
+                            "1982-01-01T00:00:00Z",
+                            3681,
+                            "1983-01-01T00:00:00Z",
+                            6543,
+                            "1984-01-01T00:00:00Z",
+                            9095,
+                            "1985-01-01T00:00:00Z",
+                            11517,
+                            "1986-01-01T00:00:00Z",
+                            14823,
+                            "1987-01-01T00:00:00Z",
+                            21789,
+                            "1988-01-01T00:00:00Z",
+                            25604,
+                            "1989-01-01T00:00:00Z",
+                            27461,
+                            "1990-01-01T00:00:00Z",
+                            29799,
+                            "1991-01-01T00:00:00Z",
+                            33484,
+                            "1992-01-01T00:00:00Z",
+                            21398,
+                            "1993-01-01T00:00:00Z",
+                            23167,
+                            "1994-01-01T00:00:00Z",
+                            25068,
+                            "1995-01-01T00:00:00Z",
+                            29408,
+                            "1996-01-01T00:00:00Z",
+                            30605,
+                            "1997-01-01T00:00:00Z",
+                            33330,
+                            "1998-01-01T00:00:00Z",
+                            22822,
+                            "1999-01-01T00:00:00Z",
+                            22400,
+                            "2000-01-01T00:00:00Z",
+                            24335,
+                            "2001-01-01T00:00:00Z",
+                            34420,
+                            "2002-01-01T00:00:00Z",
+                            95413,
+                            "2003-01-01T00:00:00Z",
+                            101444,
+                            "2004-01-01T00:00:00Z",
+                            72354,
+                            "2005-01-01T00:00:00Z",
+                            121814,
+                            "2006-01-01T00:00:00Z",
+                            136682,
+                            "2007-01-01T00:00:00Z",
+                            142738,
+                            "2008-01-01T00:00:00Z",
+                            161568,
+                            "2009-01-01T00:00:00Z",
+                            207491,
+                            "2010-01-01T00:00:00Z",
+                            210107,
+                            "2011-01-01T00:00:00Z",
+                            197329,
+                            "2012-01-01T00:00:00Z",
+                            194619,
+                            "2013-01-01T00:00:00Z",
+                            197180,
+                            "2014-01-01T00:00:00Z",
+                            212692,
+                            "2015-01-01T00:00:00Z",
+                            221414,
+                            "2016-01-01T00:00:00Z",
+                            236109,
+                            "2017-01-01T00:00:00Z",
+                            233530,
+                            "2018-01-01T00:00:00Z",
+                            763718,
+                            "2019-01-01T00:00:00Z",
+                            232663,
+                            "2020-01-01T00:00:00Z",
+                            234685,
+                            "2021-01-01T00:00:00Z",
+                            234320,
+                            "2022-01-01T00:00:00Z",
+                            232694,
+                            "2023-01-01T00:00:00Z",
+                            235287,
+                            "2024-01-01T00:00:00Z",
+                            485066
+                        ],
+                        "gap": "+1YEAR",
+                        "before": 2,
+                        "start": "1975-01-01T00:00:00Z",
+                        "end": "2025-01-01T00:00:00Z"
+                    }
+                },
+                "facet_intervals": {},
+                "facet_heatmaps": {}
+            }
+        },
+        "queryId": "549ab06a-3ec8-4d6c-a0e0-feb8de24cb63"
+    },
+    "jobStatus": null,
+    "queryId": "549ab06a-3ec8-4d6c-a0e0-feb8de24cb63",
+    "page": 1,
+    "count": 0,
+    "errorMessage": null,
+    "createQueryRequest": {
+        "searchText": "appStatus_txt:Abandoned  --  Failure to Respond to an Office Action",
+        "facet": "true",
+        "facetField": null,
+        "facetLimit": null,
+        "facetMissing": null,
+        "facetDate": null,
+        "facetDateGap": null,
+        "facetDateStart": null,
+        "facetDateEnd": null,
+        "facetDateOther": null,
+        "facetDateInclude": null,
+        "mm": "0%",
+        "sort": "applId asc",
+        "qf": "appEarlyPubNumber applId appLocation appType appStatus_txt appConfrNumber appCustNumber appGrpArtNumber appCls appSubCls appEntityStatus_txt patentNumber patentTitle inventorName firstNamedApplicant appExamName appExamPrefrdName appAttrDockNumber appPCTNumber appIntlPubNumber wipoEarlyPubNumber pctAppType firstInventorFile appClsSubCls rankAndInventorsList",
+        "wt": null,
+        "df": "patentTitle",
+        "fl": "*",
+        "start": "0",
+        "fq": [],
+        "rows": null,
+        "parameters": {
+            "mm": "0%",
+            "df": "patentTitle",
+            "qf": "appEarlyPubNumber applId appLocation appType appStatus_txt appConfrNumber appCustNumber appGrpArtNumber appCls appSubCls appEntityStatus_txt patentNumber patentTitle inventorName firstNamedApplicant appExamName appExamPrefrdName appAttrDockNumber appPCTNumber appIntlPubNumber wipoEarlyPubNumber pctAppType firstInventorFile appClsSubCls rankAndInventorsList",
+            "fl": [
+                "*"
+            ],
+            "start": "0",
+            "sort": "applId asc",
+            "fq": [],
+            "rows": "25",
+            "facet": "true"
+        }
+    },
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63?format=XML"
+        },
+        {
+            "rel": "results",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63/results?page=1"
+        },
+        {
+            "rel": "package",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63/package?format=XML"
+        },
+        {
+            "rel": "first",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63/results?page=1"
+        },
+        {
+            "rel": "next",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63/results?page=2"
+        },
+        {
+            "rel": "self",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63?format=JSON"
+        },
+        {
+            "rel": "results",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63/results?page=1"
+        },
+        {
+            "rel": "package",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63/package?format=JSON"
+        },
+        {
+            "rel": "first",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63/results?page=1"
+        },
+        {
+            "rel": "next",
+            "href": "https://ped.uspto.gov/api/queries/549ab06a-3ec8-4d6c-a0e0-feb8de24cb63/results?page=2"
+        }
+    ]
+}
