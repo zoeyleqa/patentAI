@@ -32,7 +32,7 @@ if (st.session_state.get("password_correct") == None) or (st.session_state.get("
 if "internal_messages" not in st.session_state:
     st.session_state.internal_messages = [{
     "role":"system", 
-    "content": prompts.system_prompt
+    "content": prompts.patent_agent_prompt
 }]
 
 if "external_messages" not in st.session_state:

@@ -40,7 +40,7 @@ tools = [search]
 agent_executor = create_react_agent(model, tools, checkpointer=memory)
 
 ###########################
-###   Nutrition Agent  ####
+###   Patent Agent  ####
 ###########################
 
 # load docs
@@ -130,8 +130,8 @@ rag_chain = {"context": retriever, "question": RunnablePassthrough()} | llm_chai
 
 app = FastAPI()
 
-@app.post("/patent")
-def generate_nutrition(data: Dict):
+@app.post("/patent-ideas")
+def generate_patent_ideas(data: Dict):
     question = data['question']
     response = rag_chain.invoke(question)
     print(response)
@@ -151,8 +151,8 @@ def generate_nutrition(data: Dict):
         
     return {"response": result}
 
-@app.post("/event")
-def generate_events(data: Dict):
+@app.post("/patent-search")
+def generate_patent_search(data: Dict):
     print(data)
     event_type = data["event_type"]
     location = data["location"]

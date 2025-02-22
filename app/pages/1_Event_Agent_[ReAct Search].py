@@ -36,20 +36,20 @@ with st.form(key='event_form'):
     # event_type = st.text_input("Type of event")
     # location = st.text_input("Location")
     
-    case_status = st.text_input("Status of the case")
+    industry = st.text_input("Industry")
     time_frame = st.text_input("Year")
-    author_country = st.text_input("Author's country code")
+    location = st.text_input("Inventor country")
     submit_button = st.form_submit_button(label='Submit')
 
 if submit_button:
     payload = {
-            "case_status": case_status,
-            "author_country": author_country,
+            "industry": industry,
+            "location": location,
             "time_frame": time_frame
         }
     
-    with st.spinner(f'Looking into cases with {case_status} status from {author_country} in {time_frame}...'):
-        response = requests.post("http://localhost:8000/event", json=payload).json()
+    with st.spinner(f'Looking into patent related to {industry} from {location} in {time_frame}...'):
+        response = requests.post("http://localhost:8501/patent-search", json=payload).json()
         st.session_state.event_response = response["response"]
     
 # display output

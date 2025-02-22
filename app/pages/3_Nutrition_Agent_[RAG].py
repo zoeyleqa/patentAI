@@ -26,13 +26,13 @@ if (st.session_state.get("password_correct") == None) or (st.session_state.get("
     st.stop()
 
 
-st.subheader("Let me help you find specific meal options based on your diet (e.g., Mediterranean, Keto, Vegan, etc.)!")
-user_input = st.text_input(label="patent_agent", label_visibility="hidden", placeholder="What are some Mediterranean breakfast options?")
+st.subheader("Let me help you find specific patents based on your business idea (e.g., detect malicious network activity with AI, Immersion tech, etc.)!")
+user_input = st.text_input(label="patent_agent", label_visibility="hidden", placeholder="What are some patent idea related to DNA?")
 
 # button to submit request
 if st.button("Request patent information"):
     with st.spinner(f'Retrieving...'):
-        data = requests.post("http://127.0.0.1:8000/patent", json={"question": user_input}).json()
+        data = requests.post("http://127.0.0.1:8501/patent-ideas", json={"question": user_input}).json()
         st.session_state.patent_response = data["response"]
 
 st.write(st.session_state.patent_response)
