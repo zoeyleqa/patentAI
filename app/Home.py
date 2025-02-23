@@ -74,7 +74,7 @@ st.write(f"You have been authenticated.")
 st.write("Select your agent from the sidebar to begin.")
 
 st.subheader("Agents available:")
-st.write("1. Onboarding Agent [ReAct]")
+st.write("1. Patent search Agent [ReAct]")
 st.write("2. Training Agent [CoT FSP]")
 st.write("3. Patent Agent [RAG]")
 

@@ -32,7 +32,7 @@ user_input = st.text_input(label="patent_agent", label_visibility="hidden", plac
 # button to submit request
 if st.button("Request patent information"):
     with st.spinner(f'Retrieving...'):
-        data = requests.post("http://127.0.0.1:8501/patent-ideas", json={"question": user_input}).json()
+        data = requests.post("http://127.0.0.1:8000/patent-ideas", json={"question": user_input}).json()
         st.session_state.patent_response = data["response"]
 
 st.write(st.session_state.patent_response)

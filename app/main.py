@@ -1,31 +1,29 @@
 from typing import Dict
 from fastapi import FastAPI
-from langgraph.checkpoint.sqlite import SqliteSaver
 
 from langchain_openai import ChatOpenAI
 from langchain_community.tools.tavily_search import TavilySearchResults
-from langgraph.checkpoint.sqlite import SqliteSaver
 from langgraph.prebuilt import create_react_agent
 
-from langchain.llms import HuggingFacePipeline
+from langchain_huggingface import HuggingFacePipeline
 from langchain.prompts import PromptTemplate
 from transformers import pipeline
 from langchain_core.output_parsers import StrOutputParser
 
 from langchain_community.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import FAISS
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.runnables import RunnablePassthrough
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 import os
-
+import sqlite3
 import re
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv("../.env")
 
 
 ###########################
@@ -33,7 +31,7 @@ load_dotenv()
 ###########################
 
 # Create the agent with memory and search tool
-memory = SqliteSaver.from_conn_string(":memory:")
+memory = sqlite3.connect(":memory:")
 model = ChatOpenAI(model='gpt-4o')
 search = TavilySearchResults(max_results=2)
 tools = [search]
@@ -44,7 +42,7 @@ agent_executor = create_react_agent(model, tools, checkpointer=memory)
 ###########################
 
 # load docs
-file_path = "../pdfs"
+file_path = "./pdfs"
 docs = []
 for file in os.listdir(file_path):
     if file.endswith('.pdf'):
@@ -53,7 +51,7 @@ for file in os.listdir(file_path):
         docs.extend(loader.load())
 
 # split and index
-splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=0)
+splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
 
 chunked_docs = splitter.split_documents(docs)
 
@@ -154,15 +152,15 @@ def generate_patent_ideas(data: Dict):
 @app.post("/patent-search")
 def generate_patent_search(data: Dict):
     print(data)
-    event_type = data["event_type"]
+    industry = data["industry"]
     location = data["location"]
     time_frame = data["time_frame"]
-    user_input = f"Find me {event_type} events in {location} around {time_frame} time frame in 2024. Return back specific events."
+    user_input = f"Find me {industry} patent in {location} around {time_frame} time frame. Return back summary of that patent."
 
     # Set memory for a specific user
     config = {"configurable": {"thread_id": "rc45"}}
 
     response = agent_executor.invoke({"messages": [("user", user_input)]}, config)
-
+    print(response)
     response = response["messages"][-1].content
     return {"response": response}

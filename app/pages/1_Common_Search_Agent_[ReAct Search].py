@@ -7,7 +7,7 @@ client = OpenAI()
 st.set_page_config(layout="wide")
 
 # Header
-title = "myfitnessagent"
+title = "mypatentagent"
 logo_path = "../logo.png"
 
 if "event_response" not in st.session_state:
@@ -49,7 +49,7 @@ if submit_button:
         }
     
     with st.spinner(f'Looking into patent related to {industry} from {location} in {time_frame}...'):
-        response = requests.post("http://localhost:8501/patent-search", json=payload).json()
+        response = requests.post("http://localhost:8000/patent-search", json=payload).json()
         st.session_state.event_response = response["response"]
     
 # display output

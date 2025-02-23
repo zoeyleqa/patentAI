@@ -73,8 +73,7 @@ docs/_build/
 
 # file
 *.zip
-*.pdf
-app/pdfs/*
+notebooks/model_directory/
 
 # PyBuilder
 .pybuilder/
