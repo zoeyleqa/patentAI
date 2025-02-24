@@ -1,8 +1,12 @@
 import streamlit as st
 from openai import OpenAI
 import requests
+import os
 
-client = OpenAI()
+# print(os.getenv("OPENAI_API_KEY"))
+client = OpenAI( 
+    api_key=os.getenv("OPENAI_API_KEY")
+)
 
 st.set_page_config(layout="wide")
 

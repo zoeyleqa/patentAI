@@ -1,9 +1,11 @@
 from typing import Dict
 from fastapi import FastAPI
+from langgraph.checkpoint.sqlite import SqliteSaver
 
 from langchain_openai import ChatOpenAI
 from langchain_community.tools.tavily_search import TavilySearchResults
 from langgraph.prebuilt import create_react_agent
+from langgraph.checkpoint.sqlite import SqliteSaver
 
 from langchain_huggingface import HuggingFacePipeline
 from langchain.prompts import PromptTemplate
@@ -23,15 +25,15 @@ import sqlite3
 import re
 from dotenv import load_dotenv
 
-load_dotenv("../.env")
-
+load_dotenv(os.getenv("OPENAI_API_KEY"))
+# print(os.getenv("OPENAI_API_KEY"))
 
 ###########################
 ### ReAct Search Agent ####
 ###########################
 
 # Create the agent with memory and search tool
-memory = sqlite3.connect(":memory:")
+memory = SqliteSaver.from_conn_string(":memory:")
 model = ChatOpenAI(model='gpt-4o')
 search = TavilySearchResults(max_results=2)
 tools = [search]
