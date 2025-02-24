@@ -60,7 +60,7 @@ def parse_messages(text):
 col1, col2 = st.columns([1,1])
 
 with col1:
-    st.header("Chat with coach")
+    st.header("Chat with the agent")
 
     # Create a container for chat messages
     chat_container = st.container(height=400)

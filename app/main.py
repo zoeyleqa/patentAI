@@ -1,6 +1,7 @@
 from typing import Dict
 from fastapi import FastAPI
 from langgraph.checkpoint.sqlite import SqliteSaver
+from langgraph.checkpoint.memory import MemorySaver
 
 from langchain_openai import ChatOpenAI
 from langchain_community.tools.tavily_search import TavilySearchResults
@@ -33,7 +34,8 @@ load_dotenv(os.getenv("OPENAI_API_KEY"))
 ###########################
 
 # Create the agent with memory and search tool
-memory = SqliteSaver.from_conn_string(":memory:")
+# memory = SqliteSaver.from_conn_string(":memory:")
+memory = MemorySaver()
 model = ChatOpenAI(model='gpt-4o')
 search = TavilySearchResults(max_results=2)
 tools = [search]
